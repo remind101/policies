@@ -10,7 +10,7 @@ At Remind101, Inc. (“Remind,” “we,” “us,” “our”), we know you ca
 
 ***
 
-Remind has been awarded TRUSTe’s Privacy and Children’s Privacy Seal signifying that our privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to facilitate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program only covers information collected through the Services. If you have questions or complaints regarding our privacy policy or practices, please contact us at contact@remind.com. If you are not satisfied with our response, you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Remind has been awarded TRUSTe’s Privacy and Children’s Privacy Seal signifying that our privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to facilitate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program only covers information collected through the Services. If you have questions or complaints regarding our privacy policy or practices, please contact us at contact@remindhq.com. If you are not satisfied with our response, you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 > WHAT THIS IS SAYING
 
@@ -18,15 +18,15 @@ Remind has been awarded TRUSTe’s Privacy and Children’s Privacy Seal signify
 
 ***
 
-You are responsible for any Content (as that term is defined in our [Terms of Service](https://www.remind.com/terms-of-service)) you provide in connection with the Services. We cannot control the actions of users with whom you or any Services subscribers may choose to share information. Therefore, we cannot and do not guarantee that Content you or any user posts on the Services will not be viewed by unauthorized persons. Although we may allow our users to set privacy options that limit access to certain parts of the Services, please be aware that no security measures are perfect or impenetrable and that we are not responsible for circumvention of any security measures contained on the Services. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached pages and archives or if other users have copied or stored your Content. 
+You are responsible for any Content (as that term is defined in our [Terms of Service](https://www.remind.com/terms-of-service)) you provide in connection with the Services. We cannot control the actions of users with whom you or any Services subscribers may choose to share information. Therefore, we cannot and do not guarantee that Content you or any user posts on the Services will not be viewed by unauthorized persons. Although we may allow our users to set privacy options that limit access to certain parts of the Services, please be aware that no security measures are perfect or impenetrable and that we are not responsible for circumvention of any security measures contained on the Services. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached pages and archives or if other users have copied or stored your Content.
 
-You may request removal of your Personal Information by contacting us at contact@remind.com. We will remove the information that you request from our database, but this information may remain in our server logs as part of our standard backup procedures.
+You may request removal of your Personal Information by contacting us at contact@remindhq.com. We will remove the information that you request from our database, but this information may remain in our server logs as part of our standard backup procedures.
 
-Any improper collection or misuse of Content or other information accessible on the Services is a violation of Remind’s [Terms of Service](https://www.remind.com/terms-of-service) and should be reported to report@remind.com.
+Any improper collection or misuse of Content or other information accessible on the Services is a violation of Remind’s [Terms of Service](https://www.remind.com/terms-of-service) and should be reported to report@remindhq.com.
 
 > WHAT THIS IS SAYING
 
-> Please keep in mind that you’re responsible for the content of your account and all your messages. You can request that your account is deleted by contacting us at contact@remind.com, but Remind is not responsible for what subscribers may do with your sent messages.
+> Please keep in mind that you’re responsible for the content of your account and all your messages. You can request that your account is deleted by contacting us at contact@remindhq.com, but Remind is not responsible for what subscribers may do with your sent messages.
 
 ***
 
@@ -42,17 +42,17 @@ This Privacy Policy explains how Remind collects and uses information from you a
 
 ## How is children’s personal information treated?
 
-We have included some information below related to the Children’s Online Privacy and Protection Act (“COPPA”). COPPA requires that online service providers obtain parental consent or provide notice before they knowingly collect personally identifiable information online from children who are under 13 (“under age users”). Pursuant to COPPA, we may collect an underage user’s name (first name and last initial), date of birth, email address and/or telephone number in order to operate and provide the Remind Services, and we may collect the underage user’s parent’s email address in order to provide notice to parents that we may contact their underage user for the purpose of providing the Services. If Remind does not receive the parent’s email address within a reasonable time period, the underage user will not be able to receive any messages and **his/her Personal information will be deleted**. If an underage user’s Remind account is inactive for at least twelve months (meaning, the account has not received a message through the Services in that period of time), Remind’s policy is to delete the personally-identifiable information. If we learn we have collected Personal Information from an underage user other than pursuant to the above, or if we learn that an underage user has provided us personal information beyond what we request from him or her, we will delete that information as quickly as possible. If you believe that an underage user may have provided us personal information in violation of this paragraph, please contact us at report@remind.com.
+We have included some information below related to the Children’s Online Privacy and Protection Act (“COPPA”). COPPA requires that online service providers obtain parental consent or provide notice before they knowingly collect personally identifiable information online from children who are under 13 (“under age users”). Pursuant to COPPA, we may collect an underage user’s name (first name and last initial), date of birth, email address and/or telephone number in order to operate and provide the Remind Services, and we may collect the underage user’s parent’s email address in order to provide notice to parents that we may contact their underage user for the purpose of providing the Services. If Remind does not receive the parent’s email address within a reasonable time period, the underage user will not be able to receive any messages and **his/her Personal information will be deleted**. If an underage user’s Remind account is inactive for at least twelve months (meaning, the account has not received a message through the Services in that period of time), Remind’s policy is to delete the personally-identifiable information. If we learn we have collected Personal Information from an underage user other than pursuant to the above, or if we learn that an underage user has provided us personal information beyond what we request from him or her, we will delete that information as quickly as possible. If you believe that an underage user may have provided us personal information in violation of this paragraph, please contact us at report@remindhq.com.
 
 > WHAT THIS IS SAYING
 
-> Remind collects limited personal information from users under 13, and notifies a parent or guardian when collecting personal information from users under 13 years old. We will delete their personal information if the child’s account does not have an associated email address from a parent or guardian, or if the account has been inactive for at least 12 months. Any questions or concerns? Just email us! contact@remind.com
+> Remind collects limited personal information from users under 13, and notifies a parent or guardian when collecting personal information from users under 13 years old. We will delete their personal information if the child’s account does not have an associated email address from a parent or guardian, or if the account has been inactive for at least 12 months. Any questions or concerns? Just email us! contact@remindhq.com
 
 ***
 
 ## What information does Remind display or collect?
 
-When you use the Services, you may set up your personal profile, send messages, perform searches and queries, and transmit information through various channels as permitted by the functionality of the Services. Remind will not share personal contact information between Organizers and Subscribers (as those terms are defined in [Remind’s Terms of Service](https://www.remind.com/terms-of-service)) without user permission. The information we gather from users enables us to verify user identity and allows our users to set up a user account and profile through the Services, and helps us personalize and improve our services. We retain such information to provide the Services to you and our other users and to provide a useful user experience. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information. 
+When you use the Services, you may set up your personal profile, send messages, perform searches and queries, and transmit information through various channels as permitted by the functionality of the Services. Remind will not share personal contact information between Organizers and Subscribers (as those terms are defined in [Remind’s Terms of Service](https://www.remind.com/terms-of-service)) without user permission. The information we gather from users enables us to verify user identity and allows our users to set up a user account and profile through the Services, and helps us personalize and improve our services. We retain such information to provide the Services to you and our other users and to provide a useful user experience. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
 
 > WHAT THIS IS SAYING
 
@@ -62,18 +62,18 @@ When you use the Services, you may set up your personal profile, send messages, 
 
 ## Information You Provide to Us:
 
-We receive and store any information you knowingly enter on the Services, whether via computer, mobile phone, other wireless device, or that you provide to us in any other way. This information may include Personal Information such as your name, phone number(s), email address(es), photograph(s), and, in certain circumstances, your school, club, or organization affiliation (which may be used to validate your account) or to provide you with notifications via the Services from a teacher, school and/or district, club or team (“Notifications”), or any other information necessary for us to provide our services. For underage users, we collect a name (first name and last initial), date of birth, email address and/or telephone number, and that underage user’s  parent’s email address, to provide notice to parents regarding the service. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. 
+We receive and store any information you knowingly enter on the Services, whether via computer, mobile phone, other wireless device, or that you provide to us in any other way. This information may include Personal Information such as your name, phone number(s), email address(es), photograph(s), and, in certain circumstances, your school, club, or organization affiliation (which may be used to validate your account) or to provide you with notifications via the Services from a teacher, school and/or district, club or team (“Notifications”), or any other information necessary for us to provide our services. For underage users, we collect a name (first name and last initial), date of birth, email address and/or telephone number, and that underage user’s  parent’s email address, to provide notice to parents regarding the service. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our features.
 
-We use the Personal Information we receive about you to enable us to provide you with the Services and also for purposes such as: 
+We use the Personal Information we receive about you to enable us to provide you with the Services and also for purposes such as:
 
 * authenticating your identity,
-* responding to your requests for certain information, 
-* customizing the features that we make available to you, 
+* responding to your requests for certain information,
+* customizing the features that we make available to you,
 * improving internal operations (including troubleshooting, testing, and analyzing usage),
 * communicating with you about new features
-* and, most importantly, protecting our users and making sure our Services are safe and secure. 
+* and, most importantly, protecting our users and making sure our Services are safe and secure.
 
-You may modify or remove your Personal Information identified below at any time by logging into your account and accessing features to edit your classes, groups and/or account information. 
+You may modify or remove your Personal Information identified below at any time by logging into your account and accessing features to edit your classes, groups and/or account information.
 
 > WHAT THIS IS SAYING
 
@@ -93,23 +93,23 @@ We also may provide to our partners aggregate information derived from such auto
 
 ***
 
-### Mobile Application: 
+### Mobile Application:
 
-When users use our mobile application, we automatically collect IP address, device ID, device type, what OS users are running. If you create an account through an SMS invitation, we may ask you for your mobile phone number (even if you already have signed up for the Services through a different mechanism such as your browser). 
+When users use our mobile application, we automatically collect IP address, device ID, device type, what OS users are running. If you create an account through an SMS invitation, we may ask you for your mobile phone number (even if you already have signed up for the Services through a different mechanism such as your browser).
 
 We collect users’ IP addresses whenever they use our mobile application, which provides us with a coarse approximation of the user’s location at the city level in order for Remind to, for example:
- 
+
 * provide Organizers with a generic phone number in a local area code,
 * support features such as school selection, and
 * enable other internal measurement and Services features.
- 
+
 We also may, with your express consent, request more specific location information in order to provide you with more relevant information (such as nearby classes or relevant groups to which you may subscribe to). We will not store or track your device location on an on-going basis or without your permission. We may also collect location-based information from users as part of providing the Services and in order to comply with applicable laws and regulations for the user’s jurisdiction.
 
-Remind does not automatically collect or store phone numbers of first-time underageusers unless he/she has previously used the Services over SMS and we have notified his/her parent; however, if the underage user has properly signed up for the Services through SMS and then downloaded the Services mobile application, Remind will have the underage user’s phone number and may use it: 
+Remind does not automatically collect or store phone numbers of first-time underageusers unless he/she has previously used the Services over SMS and we have notified his/her parent; however, if the underage user has properly signed up for the Services through SMS and then downloaded the Services mobile application, Remind will have the underage user’s phone number and may use it:
 
 * to merge the underage user’s accounts,
 * to continue SMS delivery services, and/or
-* as a back up method of notification. 
+* as a back up method of notification.
 
 > WHAT THIS IS SAYING
 
@@ -119,11 +119,11 @@ Remind does not automatically collect or store phone numbers of first-time under
 
 ## Email and Text Message Communications:
 
-If you provide us your email address or phone number, Remind may send you administrative messages (such as updates, Notifications, newsletters, and other news) relating to the Services or to respond to communications from you. By maintaining a Remind account and/or not opting out of the receipt of information from Remind, you acknowledge and agree that you may receive e-mail or text messages on your phone or mobile communications device from Remind and/or its Agents (as defined below). The receipt of such messages may cause you to incur usage charges or other fees or costs in accordance with your wireless or data service plan. Any and all such charges, fees, or costs are your sole responsibility. You should consult with your wireless carrier to determine what rates, charges, fees, or costs may apply. We may receive a confirmation when you open an email from us if your computer supports this type of program. We only send these types of communications to underage users  upon providing notice to the parent. If you no longer wish to receive administrative email messages from Remind you may opt-out by following the unsubscribe link located at the bottom of each message or by emailing us at contact@remind.com. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
+If you provide us your email address or phone number, Remind may send you administrative messages (such as updates, Notifications, newsletters, and other news) relating to the Services or to respond to communications from you. By maintaining a Remind account and/or not opting out of the receipt of information from Remind, you acknowledge and agree that you may receive e-mail or text messages on your phone or mobile communications device from Remind and/or its Agents (as defined below). The receipt of such messages may cause you to incur usage charges or other fees or costs in accordance with your wireless or data service plan. Any and all such charges, fees, or costs are your sole responsibility. You should consult with your wireless carrier to determine what rates, charges, fees, or costs may apply. We may receive a confirmation when you open an email from us if your computer supports this type of program. We only send these types of communications to underage users  upon providing notice to the parent. If you no longer wish to receive administrative email messages from Remind you may opt-out by following the unsubscribe link located at the bottom of each message or by emailing us at contact@remindhq.com. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
 
 To permanently cease receiving SMS text messages, please follow the instructions below:
 * If you are located in the **US or Canada**, text STOP, CANCEL, or UNSUBSCRIBE:
-   * in reply to any SMS message from that group, 
+   * in reply to any SMS message from that group,
    * to a Remind long-code (a phone number issued by Remind), or
    * in the US, to the Remind short code 81010.
 
@@ -139,7 +139,7 @@ _To only stop receiving messages from a specific class or group, text UNSUBSCRIB
 
 ## Push Notifications
 
-We send notices to Subscribers when the Organizer has posted something new within the group to which they belong. If you no longer wish to receive such communications, you may turn them off at the device level. If you are a parent of an underage user , you always have the choice to no longer allow your child to receive such communications by contacting us at contact@remind.com. Any user may email us at contact@remind.com if such user no longer wishes to receive communications from the Services.
+We send notices to Subscribers when the Organizer has posted something new within the group to which they belong. If you no longer wish to receive such communications, you may turn them off at the device level. If you are a parent of an underage user , you always have the choice to no longer allow your child to receive such communications by contacting us at contact@remindhq.com. Any user may email us at contact@remindhq.com if such user no longer wishes to receive communications from the Services.
 
 > WHAT THIS IS SAYING
 
@@ -160,7 +160,7 @@ Remind uses these technologies to deliver, measure, and improve our Services in 
 * **Authentication and security:**
    * To log you into Remind.
    * To protect your security.
-   * To help us detect and fight spam, abuse, and other activities that violate the Remind Rules. 
+   * To help us detect and fight spam, abuse, and other activities that violate the Remind Rules.
    * _For example, these technologies help authenticate your access to Remind and prevent unauthorized parties from accessing your account. They also let us show you appropriate content through our Services._
 
 * **Preferences:**
@@ -181,7 +181,7 @@ Most browsers have an option for turning off the cookie feature, which will prev
 
 ## Mobile Analytics
 
-We use mobile analytics software to allow us to better understand the functionality and performance of our mobile software on your phone. This software may collect, store and use information such as how often you use the application, the events that occur within the application, usage, performance data, and where the application was downloaded from. This software may share information it collects with other third parties as part of providing the analytics services and to comply with applicable laws. 
+We use mobile analytics software to allow us to better understand the functionality and performance of our mobile software on your phone. This software may collect, store and use information such as how often you use the application, the events that occur within the application, usage, performance data, and where the application was downloaded from. This software may share information it collects with other third parties as part of providing the analytics services and to comply with applicable laws.
 
 > WHAT THIS IS SAYING
 
@@ -210,7 +210,7 @@ Advertising is not permitted on the Services. However, we employ other companies
 
 > WHAT THIS IS SAYING
 
-> Remind does not rent or sell your personal information. We may share your information to provide certain parts of the Remind service, only as provided in this policy. If you have any questions, please reach out to us at contact@remind.com.
+> Remind does not rent or sell your personal information. We may share your information to provide certain parts of the Remind service, only as provided in this policy. If you have any questions, please reach out to us at contact@remindhq.com.
 
 ***
 
@@ -246,7 +246,7 @@ _With Your Consent:_ Except as set forth herein or where Remind determines neces
 
 If you have created a Remind account, your account Personal Information is protected by a password for your privacy and security. You may help protect against unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
-Remind endeavors to protect user information to ensure that user account information is kept private, however, we cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures we use in connection with the Services, please contact us at contact@remind.com.
+Remind endeavors to protect user information to ensure that user account information is kept private, however, we cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures we use in connection with the Services, please contact us at contact@remindhq.com.
 When you enter information within the login portion of our site, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 The Services contain links to other sites or services. Remind is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Services.
@@ -265,7 +265,7 @@ Our Services may include social media features, such as the Facebook “Like” 
 
 ## What information can I access and modify?
 
-As a Remind account holder, you have access to view and update the following information at your discretion: 
+As a Remind account holder, you have access to view and update the following information at your discretion:
 
 * information in your user account (such as your email address),
 * subscriber names,
@@ -287,17 +287,17 @@ As stated previously, you can always opt not to disclose information, even thoug
 
 You are able to add or update certain information on pages, such as those listed in the “What Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. Certain types of communication you send to other users cannot be removed, such as messages.
 
-You may request deletion of your Remind account by emailing contact@remind.com. Please note that certain information may remain in our records, server logs and archives after deletion of your account. Remind retains this information for purposes such as diagnosing problems with the service and for auditing legal investigations, but reserves the right to delete this information in accordance with its standard business practices in effect from time to time. Further, information and other content you have provided may remain visible elsewhere to the extent such content was copied or stored by other users.
+You may request deletion of your Remind account by emailing contact@remindhq.com. Please note that certain information may remain in our records, server logs and archives after deletion of your account. Remind retains this information for purposes such as diagnosing problems with the service and for auditing legal investigations, but reserves the right to delete this information in accordance with its standard business practices in effect from time to time. Further, information and other content you have provided may remain visible elsewhere to the extent such content was copied or stored by other users.
 
 For under age users with an account that is inactive for twelve months or more (meaning the account has not received a message through the Services in that time), Remind’s policy is to disable access to Personal Information associated with that  account.
 
-If yours or your child’s personal information changes, or if you no longer desire our Service, wish to refuse further contact by Remind with your child, you may review, correct, update, delete inaccuracies, request deletion of your child’s information, or amend it by contacting us at contact@remind.com or by logging into your account. We will respond to your request as quickly as possible.
+If yours or your child’s personal information changes, or if you no longer desire our Service, wish to refuse further contact by Remind with your child, you may review, correct, update, delete inaccuracies, request deletion of your child’s information, or amend it by contacting us at contact@remindhq.com or by logging into your account. We will respond to your request as quickly as possible.
 
-We will retain yours or your child’s information for as long as your account is active or as needed to provide Services. If you wish to cancel yours or your child’s account or request that we no longer use the information to provide Services, contact us at contact@remind.com. Note we will retain and use information, for example, to comply with our audit and legal obligations, to resolve disputes, and to enforce our agreements.
+We will retain yours or your child’s information for as long as your account is active or as needed to provide Services. If you wish to cancel yours or your child’s account or request that we no longer use the information to provide Services, contact us at contact@remindhq.com. Note we will retain and use information, for example, to comply with our audit and legal obligations, to resolve disputes, and to enforce our agreements.
 
 > WHAT THIS IS SAYING
 
-> As an Organizer or teacher, you may delete your account at any time by logging in online. As a Subscriber, such as a student or parent, please email contact@remind.com to delete your account. Once deleted, we do keep a copy of message history and other account information for your convenience and safety. Certain accounts are fully deleted after 12 months of inactivity.
+> As an Organizer or teacher, you may delete your account at any time by logging in online. As a Subscriber, such as a student or parent, please email contact@remindhq.com to delete your account. Once deleted, we do keep a copy of message history and other account information for your convenience and safety. Certain accounts are fully deleted after 12 months of inactivity.
 
 ***
 
@@ -315,10 +315,10 @@ If we make material changes to the types of Personal Information we collect or h
 
 ## Questions or concerns
 
-If you have any questions or concerns regarding privacy at Remind or remind.com, please send us a detailed message to contact@remind.com. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy at Remind or remind.com, please send us a detailed message to contact@remindhq.com. We will make every effort to resolve your concerns.
 
 > WHAT THIS IS SAYING
 
-> We encourage you to contact us at contact@remind.com if you have any questions or concerns about how we use your information.
+> We encourage you to contact us at contact@remindhq.com if you have any questions or concerns about how we use your information.
 
 ***
