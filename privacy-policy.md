@@ -375,8 +375,9 @@ If you have any questions or concerns regarding privacy when using Remind's Serv
 Privacy Team
 
 **Address**
-77 Stillman St.
-San Francisco, CA 94107
+965 Mission St.
+3rd Floor
+San Francisco, CA 94103
 
 **Email**
 [privacy@remindhq.com][3]
@@ -387,7 +388,7 @@ We encourage you to contact us using the information provided here if you have a
 
 * * *
 
-Updated August 16, 2017
+Updated October 2, 2017
 
 [1]: https://www.remind.com/terms-of-service
 [2]: mailto:contact@remindhq.com
