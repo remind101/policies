@@ -8,7 +8,7 @@
 
 ## Terms of use
 
-Welcome to Remind. Remind is a messaging platform that helps educators, students, parents and other users send quick, simple messages to any device. Please continue reading to learn about the rules and restrictions that govern your use of Remind's website(s) and all other products, services and applications made available by Remind from time to time (collectively, the "Services"). This Agreement includes the terms in this document, as well as Remind's [Privacy Policy][2], [Copyright Dispute Policy][5], and the Apple Application Terms.
+Welcome to Remind. Remind is a messaging platform that helps educators, students, parents and other users send quick, simple messages to any device. Please continue reading to learn about the rules and restrictions that govern your use of Remind's website(s) and all other products, services and applications made available by Remind from time to time (collectively, the "Services"). This Agreement includes the terms in this document, as well as Remind's [Privacy Policy][10], [Copyright Dispute Policy][19], and the [Apple Application Terms][20].
 
 #### What this is saying
 
@@ -37,31 +37,33 @@ We work hard to improve the Remind experience for you, so our terms may change f
 
 ## Privacy
 
-We take the privacy of our users very seriously. Please read our Privacy Policy, located at [remind.com/privacy-policy][2].
+We take the privacy of our users very seriously. Please read our Privacy Policy, located at [remind.com/privacy-policy][10]. Residents of the European Union may read about our additional commitments concerning your privacy by reviewing our pledges as a signatory to the EU-US and Swiss-US Privacy Shield agreements [remind.com/privacy-policy#privacy-shield][21] and how Remind complies with the requirements of the EU's General Data Protection Regulation [remind.com/privacy-policy#gdpr][22].
+
+[10]: https://www.remind.com/privacy-policy
+[21]: https://www.remind.com/privacy-policy#privacy-shield
+[22]: https://www.remind.com/privacy-policy#gdpr
 
 #### What this is saying
 
-Another important document to look at is our [Privacy Policy][2], which outlines what personal information Remind collects from you and how we use that information to provide our service.
+Another important document to look at is our [Privacy Policy][10], which outlines what personal information Remind collects from you and how we use that information to provide our service. We take extra steps to be able to lawfully transfer the Personal Data of EU residents to the US and to comply with the EU's privacy regulation.
 
 * * *
 
 ## Use by children
 
-The Children's Online Privacy Protection Act ("COPPA") requires that online service providers notify parents and obtain their consent before they knowingly collect personally identifiable information online from children who are under 13. ** Remind only collects personal information through the Services from a child under 13 where that student's school, district and/or teacher has agreed, via the terms described below, to obtain parental consent for that child to use the Services and disclose that personal information to Remind. ** Except as expressly set forth below, we do not knowingly collect or solicit personally identifiable information from a child under 13.
-
+The Children's Online Privacy Protection Act ("COPPA") requires that online service providers notify parents of children in the United States and obtain their consent before they knowingly collect personally identifiable information online from children who are under 13. ** Remind only collects personal information through the Services from a child under 13 where that student's school, district and/or teacher has agreed, via the terms described below, to obtain parental consent for that child to use the Services and disclose that personal information to Remind. ** Except as expressly set forth below, we do not knowingly collect or solicit personally identifiable information from a child under 13. Remind's mechanisms and policies for compliance with COPPA meet or exceed the requirements of the European Union's General Data Protection Regulation for the protection of the Personal Data of children.
 * For children under 13 we may collect a child's name (first name and last initial), date of birth, email address or telephone number, and the child's parent's email address. We collect these in order to notify the parent that we may contact the child for the purpose of providing the Services for which the child's teacher, Organizer (as described below) or school administrator has signed up to use. Note that if the Remind account of a child under 13 is inactive for at least twelve months (meaning, that account has not received a message through the Remind Services in that time), Remind's policy is to delete the personally-identifiable information associated with that child's account. While we delete the account in these situations, some of the child's data may persist in the files of Remind's agents or service providers for some period of time until it is removed from their systems as well.
-
 * We may collect personal information through the Services from a child under 13 but only in support of the learning environment. For Remind to collect this type of personal information, a student's school, district or teacher must agree to obtain parental consent for that child to use the Services. The student's school, district or teacher may disclose that personal information to us for a legitimate educational interest.
 
-    * If you are a school, district, or teacher, you represent and warrant that you are solely responsible for complying with COPPA, meaning you must obtain consent from all parents or guardians whose children under 13 will be accessing the Services. If you are a teacher, you represent and warrant that you are authorized by your school or district to use the Services. You also represent and warrant that you are entering into these Terms on behalf of your school or district. For more information on COPPA, please [click here][6].
+    * If you are a school, district, or teacher, you represent and warrant that you are solely responsible for complying with COPPA, meaning you must obtain consent from all parents or guardians whose children under 13 will be accessing the Services. If you are a teacher, you represent and warrant that you are authorized by your school or district to use the Services. You also represent and warrant that you are entering into these Terms on behalf of your school or district. For more information on COPPA, please [click here][23].
 
     * If you are a school, district, or teacher providing consent on behalf of parents or guardians, you may be required to provide adequate school credentials and a valid school email address to verify your identity.
 
-If we learn we have collected personal information from a student under 13 other than pursuant to the above, or if we learn a student under 13 has provided us personal information beyond what we request from him or her, we will delete that information as quickly as possible. If you believe that a student under 13 may have provided us personal information in violation of this paragraph, please contact us at [contact@remindhq.com][4].
+If we learn we have collected personal information from a student under 13 other than pursuant to the above, or if we learn a student under 13 has provided us personal information beyond what we request from him or her, we will delete that information as quickly as possible. If you believe that a student under 13 may have provided us personal information in violation of this paragraph, please contact us at [rmd.me/help][18].
 
 #### What this is saying
 
-Remind cares about children's privacy, and complies with COPPA, a law created to protect the privacy of minors. We collect limited information for under-13 users and only if we have parental consent. If we don't have consent from a parent or guardian, we delete the information. If you are a teacher or a school providing consent on behalf of parents, you are also responsible for complying with COPPA. You can [learn more here][7].
+Remind cares about children's privacy, and complies with COPPA, a law created to protect the privacy of minors. We collect limited information for under-13 users and only if we have parental consent. If we don't have consent from a parent or guardian, we delete the information. If you are a teacher or a school providing consent on behalf of parents, you are also responsible for complying with COPPA. You can [learn more here][24].
 
 * * *
 
@@ -73,7 +75,7 @@ Through Remind, you may be able to access and use products or services operated 
 
 Note that, by using the Services, you may receive e-mail or text messages on your phone or mobile device, which may cause you to incur usage charges or other fees or costs in accordance with your wireless or data service plan. Any and all such charges, fees, or costs are your sole responsibility. You should consult with your wireless carrier to determine what rates, charges, fees, or costs may apply to your use of the Services.
 
-Additionally, we have created additional Plans for schools and districts that want additional features. You may learn more about the Plans here: [remind.com/plans][1].
+Additionally, we have created additional Plans for schools and districts that want additional features. You may learn more about the Plans here: [remind.com/plans][5].
 
 #### What this is saying
 
@@ -85,7 +87,7 @@ Remind's basic service is free right now, and we have no plans to charge users f
 
 This Agreement applies to all users of our Services, but there are special terms for you depending on what type of user you are. If you are, for example, a teacher, coach or parent who creates a "class" or "group" of members, then you are an **Organizer**. If you are, for example, a student, teammate or parent who is invited to be or added as a member of a class or group by an Organizer, you are a **Participant**. If you are agreeing to this Agreement on behalf of an organization, such as a school or school district, club, or team, you are an **Organization**. You may not sign up for or use the Services as someone you are not; Remind may disable or terminate your account if you do so. Please read on below to find out what additional terms apply to you.
 
-* If you are a **Participant** (such as a student, parent, or other individual invited to join a class or group by an Organizer):
+If you are a **Participant** (such as a student, parent, or other individual invited to join a class or group by an Organizer):
 
     * You must get your parent or guardian to read and agree to this Agreement before using the Services if you are younger than 18.
 
@@ -97,7 +99,7 @@ This Agreement applies to all users of our Services, but there are special terms
 
     * Verified administrators of the Organization that your class or group is affiliated with as well as the Organizers of your class or group may be able to add, remove, and/or move you from classes or groups within the same Organization.
 
-* If you are accessing the Services as an **Organizer** (such as a teacher, administrator, parent or other individual creating a class or group) and inviting users to join as Participants:
+If you are accessing the Services as an **Organizer** (such as a teacher, administrator, parent or other individual creating a class or group) and inviting users to join as Participants:
 
     * The Services may allow you to invite users to join and/or to add users to your class(s) and/or group(s).
 
@@ -111,9 +113,9 @@ This Agreement applies to all users of our Services, but there are special terms
 
     * You understand that if you are verified by an Organization administrator of your Organization, the Organization administrators may be able to join or message members of your class or group, add or update information in your Remind account profile, add, move or remove you from classes or groups affiliated with the Organization, and/or take other actions relating to your access and use of the Services through the Organization.
 
-* If you are an **Organization** (such as a school, school district or club):
+If you are an **Organization** (such as a school, school district or club):
 
-    * You must maintain the accuracy of the information relating to your Organization. By way of example, you will only permit staff members (such as teachers) who are current employees of your organization to use the Services and to create their own class or group codes. Upon termination of a staff member's employment with the Organization, you will require such individual to delete and cease using all class or group codes he or she has in his or her possession. If at any time you learn that a user of the Services claims to be affiliated with your organization but is not, in fact, affiliated with your Organization, or of any other inaccuracy relating to your Organization's information, you will notify Remind immediately by emailing [contact@remindhq.com][4].
+    * You must maintain the accuracy of the information relating to your Organization. By way of example, you will only permit staff members (such as teachers) who are current employees of your organization to use the Services and to create their own class or group codes. Upon termination of a staff member's employment with the Organization, you will require such individual to delete and cease using all class or group codes he or she has in his or her possession. If at any time you learn that a user of the Services claims to be affiliated with your organization but is not, in fact, affiliated with your Organization, or of any other inaccuracy relating to your Organization's information, you will notify Remind immediately by visiting [rmd.me/help][18].
 
     * If Remind verifies you as an administrator of your Organization, you may have the ability to perform the following tasks:
 
@@ -121,27 +123,26 @@ This Agreement applies to all users of our Services, but there are special terms
         * add, move, or remove Organizers and Participants from classes and/or groups affiliated with your Organization, and
         * connect and upload or sync information relating to Organizers, Participants, classes and/or groups using a data upload or syncing mechanism (such as, using CSV upload or through integration with your School Information Systems (SIS)).
 
-        IF YOU CHOOSE TO DO ANY OF THE ABOVE, YOU REPRESENT AND WARRANT THAT YOU HAVE ALL RIGHTS AND HAVE OBTAINED ALL CONSENTS AND AUTHORIZATIONS NECESSARY TO PERFORM SUCH TASKS. Remind may use the information you upload to the Services in order to verify Organizers' and Participants' affiliations and otherwise to help us provide you with the Services.
+    * IF YOU CHOOSE TO DO ANY OF THE ABOVE, YOU REPRESENT AND WARRANT THAT YOU HAVE ALL RIGHTS AND HAVE OBTAINED ALL CONSENTS AND AUTHORIZATIONS NECESSARY TO PERFORM SUCH TASKS. Remind may use the information you upload to the Services in order to verify Organizers' and Participants' affiliations and otherwise to help us provide you with the Services.
 
     * As a verified administrator of your Organization, you may be able to view and manage users and information affiliated with your Organization. For example, you may be able to join classes and groups created by Organizers affiliated with your Organization, communicate directly with other users affiliated with your Organization, add, remove, or move users from classes and/or groups affiliated with your Organization, and access and manage information and User Submissions (defined below) (including personally identifiable information but not personal contact information) of and relating to Organizers, Participants, and other members within your Organization.
 
-    * With respect to all users of Remind (whether you are a Participant, Organizer or Organization):
+With respect to all users of Remind (whether you are a Participant, Organizer or Organization):
 
-        IF YOU INVITE OR ADD ANYONE TO USE REMIND AND/OR USE ANY FEATURE OF THE SERVICES WHICH REQUIRES SHARING PERSONAL INFORMATION OF ANYONE (INCLUDING, WITHOUT LIMITATION, IF YOU IMPORT CONTACTS FROM YOUR ADDRESS BOOK TO THE SERVICES), YOU REPRESENT AND WARRANT THAT YOU HAVE OBTAINED CONSENT FROM EACH PERSON TO:
+    * IF YOU INVITE OR ADD ANYONE TO USE REMIND AND/OR USE ANY FEATURE OF THE SERVICES WHICH REQUIRES SHARING PERSONAL INFORMATION OF ANYONE (INCLUDING, WITHOUT LIMITATION, IF YOU IMPORT CONTACTS FROM YOUR ADDRESS BOOK TO THE SERVICES), YOU REPRESENT AND WARRANT THAT YOU HAVE OBTAINED FREELY GIVEN, INFORMED CONSENT FROM EACH PERSON TO:
 
         * RECEIVE SUCH INVITATION AND BE ADDED TO THE SERVICES;
         * RECEIVE MESSAGES FROM
+
             * REMIND,
             * OTHER PARTICIPANTS OF THE CLASS OR GROUP, AND
-            * OTHERS WHO HAVE ACCESS TO YOUR CLASS OR GROUP (SUCH AS, ORGANIZERS AND VERIFIED ORGANIZATION ADMINISTRATORS);
-
-        AND
+            * OTHERS WHO HAVE ACCESS TO YOUR CLASS OR GROUP (SUCH AS, ORGANIZERS AND VERIFIED ORGANIZATION ADMINISTRATORS); AND
 
         * PROVIDE THAT PERSON'S PERSONAL INFORMATION TO REMIND.
 
 #### What this is saying
 
-You have different rights and responsibilities depending on what type of user you are - Organizer, Participant or Organization. In all cases, you need consent from every person you wish to add, invite, or send messages to via Remind.
+You have different rights and responsibilities depending on what type of user you are: Organizer, Participant or Organization. In all cases, you need consent from every person you wish to add, invite, or send messages to via Remind.
 
 * * *
 
@@ -170,7 +171,7 @@ To permanently cease receiving SMS text messages, please text @STOPALL:
 * to a Remind long-code (a phone number issued by Remind), or
 * in the US, to the Remind short code 81010.
 
-For more information see this [link][8].
+For more information see this [link][25].
 
 #### What this is saying
 
@@ -180,7 +181,7 @@ We're letting you know that you may periodically receive messages from us in add
 
 ## Content
 
-You agree that you may only use the Services in accordance with [Remind's Community Guidelines][3].
+You agree that you may only use the Services in accordance with [Remind's Community Guidelines][13].
 
 All materials displayed or performed or available on the Services (including, but not limited to text, graphics, data, articles, photographs, images, illustrations, User Submissions (defined below), and so forth (all of the foregoing, the "Content")) are protected by copyright and other intellectual property laws. You may only use the Services for your own personal, non-commercial (meaning, you may not leverage the Services as a separate business) use and only in accordance with the terms of this Agreement and all laws that apply to you. Remind is not responsible for your use of the Services in any way that breaks the law. You agree you will abide by all copyright notices, trademark rules, information, and restrictions contained in any Content accessed through the Services, and will not use, copy, modify, publish, distribute, upload, display, license, sell or otherwise exploit for any purposes whatsoever any Content, third party submissions or other proprietary rights not owned by you:
 
@@ -189,17 +190,17 @@ All materials displayed or performed or available on the Services (including, bu
 
 You will not link to the Services without Remind's prior written consent, except in accordance with the terms of this Agreement.
 
-In the course of using the Services, you may provide information which may be used by Remind in connection with the Services and which may be visible to certain other users. Anything you post, upload, share, store or otherwise provide through the Services are, together with any related intellectual property rights, your "User Submissions." You retain ownership of all of your User Submissions. In order to provide you with the Services, Remind needs to access and use your User Submissions in certain ways. You hereby grant Remind a nonexclusive, worldwide, royalty-free, perpetual, irrevocable, sublicensable and transferable (only to a successor) right and license to use your User Submissions for any purpose related to providing and/or improving the Services (however, Remind will only share your personally identifiable information in accordance with Remind's current [Privacy Policy][2]). Because your User Submissions may be viewed or accessed by other Remind users, you grant other Remind users a non-exclusive, worldwide, royalty -free, perpetual, irrevocable, sublicensable right and license to access, view, edit, and use your User Submissions as may be permitted through the functionality of the Services (for example, when you send a message through the Services, the recipients of your message will be able to save, copy, edit and store that message). All information publicly posted or privately transmitted through the Services is the sole responsibility of the person from which such Content originated and that Remind will not be liable for any errors or omissions in any Content. Remind cannot guarantee the identity of any other users you may interact with in the course of using the Services. Additionally, Remind cannot guarantee the authenticity of any information which users may provide about themselves. You acknowledge that all Content accessed by you while using Remind is at your own risk and you will be solely responsible for any resulting damage or loss.
+In the course of using the Services, you may provide information which may be used by Remind in connection with the Services and which may be visible to certain other users. Anything you post, upload, share, store or otherwise provide through the Services are, together with any related intellectual property rights, your "User Submissions." You retain ownership of all of your User Submissions. In order to provide you with the Services, Remind needs to access and use your User Submissions in certain ways. You hereby grant Remind a non-exclusive, worldwide, royalty-free, perpetual, irrevocable, sublicensable and transferable (only to a successor) right and license to use your User Submissions for any purpose related to providing and/or improving the Services (however, Remind will only share your personally identifiable information in accordance with Remind's current [Privacy Policy][10]). Because your User Submissions may be viewed or accessed by other Remind users, you grant other Remind users a nonexclusive, worldwide, royalty -free, perpetual, irrevocable, sublicensable right and license to access, view, edit, and use your User Submissions as may be permitted through the functionality of the Services (for example, when you send a message through the Services, the recipients of your message will be able to save, copy, edit and store that message). All information publicly posted or privately transmitted through the Services is the sole responsibility of the person from which such Content originated and that Remind will not be liable for any errors or omissions in any Content. Remind cannot guarantee the identity of any other users you may interact with in the course of using the Services. Additionally, Remind cannot guarantee the authenticity of any information which users may provide about themselves. You acknowledge that all Content accessed by you while using Remind is at your own risk and you will be solely responsible for any resulting damage or loss.
 
 Under no circumstances will Remind be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred in connection with your use of or exposure to any Content posted, emailed, accessed, transmitted, or otherwise made available via the Services.
 
-As we explain in our [Privacy Policy][2], if Remind knows or becomes aware of a security breach of its users' personally identifiable information, Remind will notify affected users or post a notice on the Services as required by applicable law(s).
+As we explain in our [Privacy Policy][10], if Remind knows or becomes aware of a security breach of its users' personally identifiable information, Remind will notify affected users or post a notice on the Services as required by applicable law(s).
 
 #### What this is saying
 
 Be sure to only share content that belongs to you. We may view and/or use content you post on Remind (for example, format a message you send and display it to the recipients)—but you still own it.
 
-Also, be sure to read our [Community Guidelines][3], which include best practices for how to keep the Remind community safe. We need to work together to ensure Remind is a secure and supportive environment.
+Also, be sure to read our [Community Guidelines][13], which include best practices for how to keep the Remind community safe. We need to work together to ensure Remind is a secure and supportive environment.
 
 * * *
 
@@ -226,17 +227,17 @@ You will be responsible for obtaining and maintaining any equipment or ancillary
 
 #### What this is saying
 
-We are serious about safety. If you don't follow our Guidelines or these Terms of Use, we may need to remove any inappropriate content,deactivate your account, and, in extreme circumstances, report your content to law enforcement. For example, we will report all images including nudity of minors or suspected minors unless they are clearly related to academic study of subjects such as art, biology or medicine. If you see someone violating our Guidelines or Terms of Use, please contact us immediately at [report@remindhq.com][9]. We need your help to keep the Remind community safe!
+We are serious about safety. If you don't follow our Guidelines or these Terms of Use, we may need to remove any inappropriate content, deactivate your account, and, in extreme circumstances, report your content to law enforcement. For example, we will report all images including nudity of minors or suspected minors unless they are clearly related to academic study of subjects such as art, biology or medicine. If you see someone violating our Guidelines or Terms of Use, please contact us immediately at [report@remindhq.com][26]. We need your help to keep the Remind community safe!
 
 * * *
 
 ## Copyright dispute policy
 
-Under the Digital Millennium Copyright Act (the "DMCA"), online service providers such as Remind have the right, but not the obligation, to remove material that allegedly violates someone's copyright. We respect others' intellectual property rights, and we reserve the right to delete or disable Content alleged to be infringing, and to terminate the accounts of repeat alleged infringers. To learn more about the DMCA, [click here][10].
+Under the Digital Millennium Copyright Act (the "DMCA"), online service providers such as Remind have the right, but not the obligation, to remove material that allegedly violates someone's copyright. We respect others' intellectual property rights, and we reserve the right to delete or disable Content alleged to be infringing, and to terminate the accounts of repeat alleged infringers. To learn more about the DMCA, [click here][27].
 
 #### What this is saying
 
-See something that belongs to you, but someone else posted it? You can let us know by using our [Copyright Dispute Policy][5].
+See something that belongs to you, but someone else posted it? You can let us know by using our [Copyright Dispute Policy][19].
 
 * * *
 
@@ -278,7 +279,7 @@ Please keep in mind that you are solely responsible for your use of Remind. If y
 
 ## Limitation of liability
 
-TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, IN NO EVENT WILL REMIND OR ITS SUPPLIERS OR ITS SERVICE PROVIDERS, OR THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE WITH RESPECT TO THE SERVICES OR THE SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, TORT, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY
+TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, IN NO EVENT WILL REMIND OR ITS SUPPLIERS OR ITS SERVICE PROVIDERS, OR THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE WITH RESPECT TO THE SERVICES OR THE SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, TORT, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY:
 
 * FOR ANY AMOUNT IN THE AGGREGATE IN EXCESS OF THE GREATER OF $100 OR THE FEES PAID BY YOU TO REMIND HEREUNDER DURING THE 12-MONTH PERIOD PRECEDING THE APPLICABLE CLAIM;
 * FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER;
@@ -295,11 +296,11 @@ Remind is a communication tool. While we are here to support you, we are not lia
 
 ## Termination
 
-This Agreement will remain in full force and effect while you use the Services. You may terminate your use of the Services or your account at any time by deleting your account in your account settings tab or by contacting us at [contact@remindhq.com][4]. Note, if you become a Participant through an Organization, and you request that Remind delete your account, Remind may notify the Organization (and the Organizers of the classes or groups you are in of your deletion request. Remind may disable or terminate your access to the Services or your account at any time, for any reason (for your violation of any term of this Agreement or without cause), and without warning or notice, which may result in the forfeiture of all information associated with your account. Upon termination of your account, your right to use the Services and any Content will immediately cease; however, Remind may retain messaging data or other data and information pursuant to this Agreement, as necessary for auditing purposes, and as required by law. Computer deletion is not an instantaneous process. If you choose to terminate your account, all data will be rendered unavailable to you immediately and your data will be deleted over time as is true of all computer deletion everywhere. Remember that communications with others in which you participated will remain available to those other users. All provisions of this Agreement which, by their nature, should survive termination, will survive termination, including, without limitation, ownership provisions, warranty disclaimers, and limitations of liability.
+This Agreement will remain in full force and effect while you use the Services. You may terminate your use of the Services or your account at any time by deleting your account in your account settings tab or by contacting us at [rmd.me/help][18]. Note, if you become a Participant through an Organization, and you request that Remind delete your account, Remind may notify the Organization (and the Organizers of the classes or groups you are in of your deletion request. Remind may disable or terminate your access to the Services or your account at any time, for any reason (for your violation of any term of this Agreement or without cause), and without warning or notice, which may result in the forfeiture of all information associated with your account. Upon termination of your account, your right to use the Services and any Content will immediately cease; however, Remind may retain messaging data or other data and information pursuant to this Agreement, as necessary for auditing purposes, and as required by law. Computer deletion is not an instantaneous process. If you choose to terminate your account, all data will be rendered unavailable to you immediately and your data will be deleted over time as is true of all computer deletion everywhere. Remember that communications with others in which you participated will remain available to those other users. All provisions of this Agreement which, by their nature, should survive termination, will survive termination, including, without limitation, ownership provisions, warranty disclaimers, and limitations of liability.
 
 #### What this is saying
 
-All done? You can delete your Remind account online at any time. (Note for auditing purposes and to comply with laws, we may still keep a copy of messages and account details after an account is deleted or disabled). If you would like to stop receiving messages, [click here for instructions][11].
+You can delete your Remind account online at any time. (Note for auditing purposes and to comply with laws, we may still keep a copy of messages and account details after an account is deleted or disabled). If you would like to stop receiving messages, [click here for instructions][28].
 
 * * *
 
@@ -309,7 +310,7 @@ This Agreement will be governed by and construed in accordance with the laws of 
 
 #### What this is saying
 
-We want you to have a great experience on Remind. But, if you are dissatisfied with our Services, we will discuss in arbitration to resolve any issues.
+We want you to have a great experience on Remind. If you are dissatisfied with our Services, we will discuss in arbitration to resolve any issues.
 
 * * *
 
@@ -319,16 +320,19 @@ The failure of either party to exercise, in any respect, any right provided for 
 
 * * *
 
-Updated August 16, 2017
+Updated January 11, 2018
 
-[1]: https://www.remind.com/plans
-[2]: https://www.remind.com/privacy-policy
-[3]: https://www.remind.com/community-guidelines
-[4]: mailto:contact@remindhq.com
-[5]: https://assets.remind.com/marketing/pdfs/remind-copyright-dispute-policy.pdf
-[6]: https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions
-[7]: http://www.business.ftc.gov/documents/0493-Complying-with-COPPA-Frequently-Asked-Questions
-[8]: https://www.remind.com/support/text
-[9]: mailto:report@remindhq.com
-[10]: http://www.copyright.gov/legislation/dmca.pdf
-[11]: https://help.remind.com/hc/en-us/articles/202540968-How-do-I-opt-out-of-receiving-messages-
+[5]: https://www.remind.com/plans
+[10]: https://www.remind.com/privacy-policy
+[13]: https://www.remind.com/community-guidelines
+[18]: https://help.remind.com/hc/en-us/requests/new
+[19]: https://assets.remind.com/marketing/pdfs/remind-copyright-dispute-policy.pdf
+[20]: https://developer.apple.com/terms/
+[21]: https://www.remind.com/privacy-policy#privacy-shield
+[22]: https://www.remind.com/privacy-policy#gdpr
+[23]: https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions
+[24]: http://www.business.ftc.gov/documents/0493-Complying-with-COPPA-Frequently-Asked-Questions
+[25]: https://help.remind.com/hc/en-us/articles/202540968-How-do-I-opt-out-of-receiving-messages-
+[26]: mailto:report@remindhq.com
+[27]: http://www.copyright.gov/legislation/dmca.pdf
+[28]: https://help.remind.com/hc/en-us/articles/202540968-How-do-I-opt-out-of-receiving-messages-
