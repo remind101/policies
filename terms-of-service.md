@@ -22,11 +22,11 @@ We constantly try to improve our Services, so we may update this Agreement as we
 
 You represent and warrant to Remind that:
 
-*   you are at least 18 years old (or, if you are not at least 18 years old, you have your parent's permission to use the Services, and your parent has read and agrees to this Agreement on your behalf);
-*   all registration information you submit is accurate and truthful;
-*   you will maintain the accuracy of such information;
-*   if you're agreeing to this Agreement on behalf of an organization or entity, you represent and warrant that you are authorized to agree to this Agreement on the organization or entity's behalf and bind them to this Agreement (in which case, the references to "you" and "your" in these Terms, except for in this sentence, refer to that organization or entity). You also certify that you are legally permitted to use and access the Services and take full responsibility for the selection, use of, and access to the Services, including ensuring that you have permission to communicate with anyone you choose to interact with through the Services.
-*   if you will be submitting any personal information of a third party to the Services, you represent and warrant that you have obtained consent from such third party to collect, use and disclose to Remind such personal information.
+- you are at least 18 years old (or, if you are not at least 18 years old, you have your parent's permission to use the Services, and your parent has read and agrees to this Agreement on your behalf);
+- all registration information you submit is accurate and truthful;
+- you will maintain the accuracy of such information;
+- if you're agreeing to this Agreement on behalf of an organization or entity, you represent and warrant that you are authorized to agree to this Agreement on the organization or entity's behalf and bind them to this Agreement (in which case, the references to "you" and "your" in these Terms, except for in this sentence, refer to that organization or entity). You also certify that you are legally permitted to use and access the Services and take full responsibility for the selection, use of, and access to the Services, including ensuring that you have permission to communicate with anyone you choose to interact with through the Services.
+- if you will be submitting any personal information of a third party to the Services, you represent and warrant that you have obtained consent from such third party to collect, use and disclose to Remind such personal information.
 
 This Agreement is void where prohibited by law, and the right to access the Services is revoked in such jurisdictions.
 
@@ -50,10 +50,10 @@ Another important document to look at is our [Privacy Policy](https://www.remind
 
 The Children's Online Privacy Protection Act ("COPPA") requires that online service providers notify parents of children in the United States and obtain their consent before they knowingly collect personally identifiable information online from children who are under 13. **Remind only collects personal information through the Services from a child under 13 where that student's school, district and/or teacher has agreed, via the terms described below, to obtain parental consent for that child to use the Services and disclose that personal information to Remind.** Except as expressly set forth below, we do not knowingly collect or solicit personally identifiable information from a child under 13. Remind's mechanisms and policies for compliance with COPPA meet or exceed the requirements of the European Union's General Data Protection Regulation for the protection of the Personal Data of children.
 
-*   For children under 13 we may collect a child's name (first name and last initial), date of birth, email address or telephone number, and the child's parent's email address. We collect these in order to notify the parent that we may contact the child for the purpose of providing the Services for which the child's teacher, Organizer (as described below) or school administrator has signed up to use. Note that if the Remind account of a child under 13 is inactive for at least twelve months (meaning, that account has not received a message through the Remind Services in that time), Remind's policy is to delete the personally-identifiable information associated with that child's account. While we delete the account in these situations, some of the child's data may persist in the files of Remind's agents or service providers for some period of time until it is removed from their systems as well.
-*   We may collect personal information through the Services from a child under 13 but only in support of the learning environment. For Remind to collect this type of personal information, a student's school, district or teacher must agree to obtain parental consent for that child to use the Services. The student's school, district or teacher may disclose that personal information to us for a legitimate educational interest.
-    *   If you are a school, district, or teacher, you represent and warrant that you are solely responsible for complying with COPPA, meaning you must obtain consent from all parents or guardians whose children under 13 will be accessing the Services. If you are a teacher, you represent and warrant that you are authorized by your school or district to use the Services. You also represent and warrant that you are entering into these Terms on behalf of your school or district. For more information on COPPA, please [click here](https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions).
-    *   If you are a school, district, or teacher providing consent on behalf of parents or guardians, you may be required to provide adequate school credentials and a valid school email address to verify your identity.
+- For children under 13 we may collect a child's name (first name and last initial), date of birth, email address or telephone number, and the child's parent's email address. We collect these in order to notify the parent that we may contact the child for the purpose of providing the Services for which the child's teacher, Organizer (as described below) or school administrator has signed up to use. Note that if the Remind account of a child under 13 is inactive for at least twelve months (meaning, that account has not received a message through the Remind Services in that time), Remind's policy is to delete the personally-identifiable information associated with that child's account. While we delete the account in these situations, some of the child's data may persist in the files of Remind's agents or service providers for some period of time until it is removed from their systems as well.
+- We may collect personal information through the Services from a child under 13 but only in support of the learning environment. For Remind to collect this type of personal information, a student's school, district or teacher must agree to obtain parental consent for that child to use the Services. The student's school, district or teacher may disclose that personal information to us for a legitimate educational interest.
+  - If you are a school, district, or teacher, you represent and warrant that you are solely responsible for complying with COPPA, meaning you must obtain consent from all parents or guardians whose children under 13 will be accessing the Services. If you are a teacher, you represent and warrant that you are authorized by your school or district to use the Services. You also represent and warrant that you are entering into these Terms on behalf of your school or district. For more information on COPPA, please [click here](https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions).
+  - If you are a school, district, or teacher providing consent on behalf of parents or guardians, you may be required to provide adequate school credentials and a valid school email address to verify your identity.
 
 If we learn we have collected personal information from a student under 13 other than pursuant to the above, or if we learn a student under 13 has provided us personal information beyond what we request from him or her, we will delete that information as quickly as possible. If you believe that a student under 13 may have provided us personal information in violation of this paragraph, please contact us at [rmd.me/help](https://help.remind.com/hc/en-us/requests/new).
 
@@ -75,57 +75,54 @@ Additionally, we have created additional Plans for individuals, schools and dist
 
 #### What this is saying
 
-Remind's basic service is free right now, and we have no plans to charge users for the basic service. We will charge fees to those individuals who select our  Individual Plans, or those schools or districts that sign contracts to purchase our School or District Plans. You may choose to use and pay for additional products and services that we or our partners offer. We'll make it clear when fees are added to Remind. We promise :)
+Remind's basic service is free right now, and we have no plans to charge users for the basic service. We will charge fees to those individuals who select our Individual Plans, or those schools or districts that sign contracts to purchase our School or District Plans. You may choose to use and pay for additional products and services that we or our partners offer. We'll make it clear when fees are added to Remind. We promise :)
 
 ---
 
 ## Additional terms
 
-This Agreement applies to all users of our Services, but there are special terms for you depending on what type of user you are and whether you use the service for free, as do the vast majority of our users, or pay for use of Remind. 
+This Agreement applies to all users of our Services, but there are special terms for you depending on what type of user you are and whether you use the service for free, as do the vast majority of our users, or pay for use of Remind.
 
-If you are, for example, a student, teammate or parent who is invited to be or added as a member of a class or group by an Organizer, you are a **Participant**. If you are a staff member of a school or school district that has purchased a paid School or District Plan, and have been given administrative rights, then you are a Verified Administrator. If you are a teacher, coach or parent who creates a "class" or "group" of members, then you are an **Organizer**. If you are agreeing to this Agreement on behalf of an organization, such as a school or school district, club, or team, you are an **Organization**. If you are purchasing an individual account you are a Premium Organizer. You may not sign up for or use the Services as someone you are not; Remind may disable or terminate your account if you do so. Please read on below to find out what additional terms apply to you.
+If you are, for example, a student, teammate or parent who is invited to be or added as a member of a class or group by an Organizer, you are a **Participant**. If you are a staff member of a school or school district that has purchased a paid School or District Plan, and have been given administrative rights, then you are a Verified Administrator. If you are a teacher, coach or parent who creates a "class" or "group" of members, then you are an **Organizer**. If you are agreeing to this Agreement on behalf of an organization, such as a school or school district, club, or team, you are an **Organization**. You may not sign up for or use the Services as someone you are not; Remind may disable or terminate your account if you do so. Please read on below to find out what additional terms apply to you.
 
-*   If you are a **Participant** (such as a student, parent, or other individual invited to join a class or group by an Organizer):
-    *   You must get your parent or guardian to read and agree to this Agreement before using the Services if you are younger than 18.
-    *   You will only join schools, classes and/or groups to which you have been invited, or to which you belong.
-    *   In certain cases, you may be invited to join a class or group by another Participant who is already a member of that class or group.
-    *   The Organizer and other Participants of your class or group may be able to view information (including your personally identifiable information but not personal contact information), as well as your User Submissions (defined below).
-    *   If you are connected to an Organization that has purchased a Plan from Remind,  **Verified Administrators** of the Organization will be able to see and edit your contact information. Verified Administrators may be able to add, remove, and/or move you from classes or groups within the same Organization.
-*   If you are accessing the Services as an **Organizer** (such as a teacher, administrator, parent or other adult creating a class or group) and inviting users to join as Participants:
-    *   The Services may allow you to invite users to join and/or to add users to your class(s) and/or group(s).
-    *   You can invite Participants and other Organizers to your class or group by distributing "class codes" or "group codes", and communicate with those users, (in some cases, there may be more than one Organizer per class/group).
-    *   You may only share class or group codes with Participants and Organizers whom you wish to subscribe to your class/group. If you plan to broadly or publicly publish these codes, you must manage the accuracy of your subscriber lists carefully.
-    *   It's your responsibility to maintain and monitor the accuracy of the list of Participants for each of your classes or groups.
-    *   If you are connected to an Organization on a Remind Plan you may receive additional privileges from a Verified Administrator of your Organization. These privileges may include access to information and User Submissions (defined below) (including personally identifiable information but not personal contact information) of Participants and other Organizers in your class, group or affiliated Organization. 
-    *   If you are connected to an Organization on a Remind Plan, Verified Administrators of that Organization may be able to join or message members of your class or group, add or update information in your Remind account profile, add, move or remove you from classes or groups affiliated with the Organization, and/or take other actions relating to your access and use of the Services through the Organization.
-*   If you are an **Organization** (such as a school, school district or club):
-    *   You are responsible for maintaining the accuracy of the information relating to your Organization. If at any time you learn that a user of the Services claims to be affiliated with your organization but is not, in fact, affiliated with your Organization, or of any other inaccuracy relating to your Organization's information, you will remove that user from your Organization and, if appropiate, notify Remind immediately by visiting [rmd.me/help](https://help.remind.com/hc/en-us/requests/new).
-*   If you purchase an Individual Plan you are a **Premium Organizer** which gives you access to premium features, such as: :
-    *   Delivering SMS messages to carriers that are blocked for free users, and
-    *   Delivering messages with extended length.
-*   If Remind verifies you as a Verified Administrator of your Organization, you may have the ability to perform the following tasks:
-    *   invite and add Organizers and Participants to the Services,
-        *   view and manage users and information affiliated with your Organization,
-    *   add, move, or remove Organizers and Participants from classes and/or groups affiliated with your Organization, 
-    *   connect and upload or sync information relating to Organizers, Participants, classes and/or groups using a data upload or syncing mechanism (such as, using CSV upload or through integration with your School Information Systems (SIS)), 
-    *   join classes and groups created by Organizers affiliated with your Organization,
-    *   communicate directly with other users affiliated with your Organization, 
-    *   access and manage information and User Submissions, and
-    *   view the contact information, which will include personally identifiable information, of all Remind users connected with your school or district, as appropriate, and see which of those users received communications from your school or district.
-    *   IF YOU CHOOSE TO DO ANY OF THE ABOVE, YOU REPRESENT AND WARRANT THAT YOU HAVE ALL RIGHTS AND HAVE OBTAINED ALL CONSENTS AND AUTHORIZATIONS NECESSARY TO PERFORM SUCH TASKS AND THAT YOU WILL ONLY USE PERSONAL INFORMATION IN ACCORDANCE WITH APPLICABLE PRIVACY LAWS.
-    *   Remind may use the information you upload to the Services in order to verify Organizers' and Participants' affiliations and otherwise to help us provide you with the Services.
-*   With respect to all users of Remind, whether you are a, Participant, Organizer or Organization, Premium Organizer or Verified Administrator:
-    *   IF YOU INVITE OR ADD ANYONE TO USE REMIND AND/OR USE ANY FEATURE OF THE SERVICES WHICH REQUIRES SHARING PERSONAL INFORMATION OF ANYONE (INCLUDING, WITHOUT LIMITATION, IF YOU IMPORT CONTACTS FROM YOUR ADDRESS BOOK TO THE SERVICES), YOU REPRESENT AND WARRANT THAT YOU HAVE OBTAINED FREELY GIVEN, INFORMED CONSENT FROM EACH PERSON TO:
-        *   RECEIVE SUCH INVITATION AND BE ADDED TO THE SERVICES;
-        *   RECEIVE MESSAGES FROM
-            *   REMIND,
-            *   OTHER PARTICIPANTS OF THE CLASS OR GROUP, 
-            *   OTHERS WHO HAVE ACCESS TO YOUR CLASS OR GROUP (SUCH AS, ORGANIZERS, PREMIUM ORGANIZERS AND VERIFIED ADMINISTRATORS); AND
-        *   PROVIDE THAT PERSON'S PERSONAL INFORMATION TO REMIND.
+- If you are a **Participant** (such as a student, parent, or other individual invited to join a class or group by an Organizer):
+  - You must get your parent or guardian to read and agree to this Agreement before using the Services if you are younger than 18.
+  - You will only join schools, classes and/or groups to which you have been invited, or to which you belong.
+  - In certain cases, you may be invited to join a class or group by another Participant who is already a member of that class or group.
+  - The Organizer and other Participants of your class or group may be able to view information (including your personally identifiable information but not personal contact information), as well as your User Submissions (defined below).
+  - If you are connected to an Organization that has purchased a Plan from Remind, **Verified Administrators** of the Organization will be able to see and edit your contact information. Verified Administrators may be able to add, remove, and/or move you from classes or groups within the same Organization.
+- If you are accessing the Services as an **Organizer** (such as a teacher, administrator, parent or other adult creating a class or group) and inviting users to join as Participants:
+  - The Services may allow you to invite users to join and/or to add users to your class(s) and/or group(s).
+  - You can invite Participants and other Organizers to your class or group by distributing "class codes" or "group codes", and communicate with those users, (in some cases, there may be more than one Organizer per class/group).
+  - You may only share class or group codes with Participants and Organizers whom you wish to subscribe to your class/group. If you plan to broadly or publicly publish these codes, you must manage the accuracy of your subscriber lists carefully.
+  - It's your responsibility to maintain and monitor the accuracy of the list of Participants for each of your classes or groups.
+  - If you are connected to an Organization on a Remind Plan you may receive additional privileges from a Verified Administrator of your Organization. These privileges may include access to information and User Submissions (defined below) (including personally identifiable information but not personal contact information) of Participants and other Organizers in your class, group or affiliated Organization.
+  - If you are connected to an Organization on a Remind Plan, Verified Administrators of that Organization may be able to join or message members of your class or group, add or update information in your Remind account profile, add, move or remove you from classes or groups affiliated with the Organization, and/or take other actions relating to your access and use of the Services through the Organization.
+- If you are an **Organization** (such as a school, school district or club):
+  - You are responsible for maintaining the accuracy of the information relating to your Organization. If at any time you learn that a user of the Services claims to be affiliated with your organization but is not, in fact, affiliated with your Organization, or of any other inaccuracy relating to your Organization's information, you will remove that user from your Organization and, if appropiate, notify Remind immediately by visiting [rmd.me/help](https://help.remind.com/hc/en-us/requests/new).
+- If Remind verifies you as a Verified Administrator of your Organization, you may have the ability to perform the following tasks:
+  - invite and add Organizers and Participants to the Services,
+    - view and manage users and information affiliated with your Organization,
+  - add, move, or remove Organizers and Participants from classes and/or groups affiliated with your Organization,
+  - connect and upload or sync information relating to Organizers, Participants, classes and/or groups using a data upload or syncing mechanism (such as, using CSV upload or through integration with your School Information Systems (SIS)),
+  - join classes and groups created by Organizers affiliated with your Organization,
+  - communicate directly with other users affiliated with your Organization,
+  - access and manage information and User Submissions, and
+  - view the contact information, which will include personally identifiable information, of all Remind users connected with your school or district, as appropriate, and see which of those users received communications from your school or district.
+  - IF YOU CHOOSE TO DO ANY OF THE ABOVE, YOU REPRESENT AND WARRANT THAT YOU HAVE ALL RIGHTS AND HAVE OBTAINED ALL CONSENTS AND AUTHORIZATIONS NECESSARY TO PERFORM SUCH TASKS AND THAT YOU WILL ONLY USE PERSONAL INFORMATION IN ACCORDANCE WITH APPLICABLE PRIVACY LAWS.
+  - Remind may use the information you upload to the Services in order to verify Organizers' and Participants' affiliations and otherwise to help us provide you with the Services.
+- With respect to all users of Remind, whether you are a, Participant, Organizer or Organization or Verified Administrator:
+  - IF YOU INVITE OR ADD ANYONE TO USE REMIND AND/OR USE ANY FEATURE OF THE SERVICES WHICH REQUIRES SHARING PERSONAL INFORMATION OF ANYONE (INCLUDING, WITHOUT LIMITATION, IF YOU IMPORT CONTACTS FROM YOUR ADDRESS BOOK TO THE SERVICES), YOU REPRESENT AND WARRANT THAT YOU HAVE OBTAINED FREELY GIVEN, INFORMED CONSENT FROM EACH PERSON TO:
+    - RECEIVE SUCH INVITATION AND BE ADDED TO THE SERVICES;
+    - RECEIVE MESSAGES FROM
+      - REMIND,
+      - OTHER PARTICIPANTS OF THE CLASS OR GROUP,
+      - OTHERS WHO HAVE ACCESS TO YOUR CLASS OR GROUP (SUCH AS, ORGANIZERS AND VERIFIED ADMINISTRATORS); AND
+    - PROVIDE THAT PERSON'S PERSONAL INFORMATION TO REMIND.
 
 #### What this is saying
 
-You have different rights and responsibilities depending on what type of user you are - Organizer, Participant, Organization, Premium Organizer or Verified Administrator. In all cases, you need consent from every person you wish to add, invite, or send messages to via Remind.
+You have different rights and responsibilities depending on what type of user you are - Organizer, Participant, Organization, or Verified Administrator. In all cases, you need consent from every person you wish to add, invite, or send messages to via Remind.
 
 ---
 
@@ -133,8 +130,8 @@ You have different rights and responsibilities depending on what type of user yo
 
 As a condition to using Services, you may be required to register with Remind by selecting a password and providing your name and a valid email address. You will provide Remind with accurate, complete, and updated registration information. You may not:
 
-*   select or use the name or email of another person with the intent to impersonate that person; or
-*   use a name subject to any rights of any person other than you without appropriate authorization.
+- select or use the name or email of another person with the intent to impersonate that person; or
+- use a name subject to any rights of any person other than you without appropriate authorization.
 
 Remind reserves the right to refuse registration of or to cancel a Remind account in its sole discretion. You will be responsible for maintaining the confidentiality of your account and password. You may not transfer your account to anyone without express prior written consent of Remind. Violation of any of the foregoing may result in immediate termination of your account, revocation of your ability to use the Services, and may subject you to state and federal penalties and other legal consequences. Remind reserves the right, but will have no obligation, to investigate your use of the Services in order to determine whether a violation of the Agreement has occurred or to comply with any applicable law, regulation, legal process or governmental request.
 
@@ -150,13 +147,13 @@ As part of the Services, you will receive communications through the Services, i
 
 To permanently cease receiving SMS text messages, please text @STOPALL:
 
-*   in reply to any SMS message from that class or group,
-*   to a Remind long-code (a phone number issued by Remind), or
-*   in the US, to the Remind short code 81010.
+- in reply to any SMS message from that class or group,
+- to a Remind long-code (a phone number issued by Remind), or
+- in the US, to the Remind short code 81010.
 
 For more information see this [link](https://www.remind.com/support/text).
 
-If you are located in Canada, you may opt out of receiving marketing messages (including text messages and emails); however, you may still receive text message and email communications that are necessary for the Services or otherwise exempt from anti-spam laws. 
+If you are located in Canada, you may opt out of receiving marketing messages (including text messages and emails); however, you may still receive text message and email communications that are necessary for the Services or otherwise exempt from anti-spam laws.
 
 #### What this is saying
 
@@ -166,19 +163,19 @@ We're letting you know that you may periodically receive messages from us in add
 
 ## Consent to receive emergency messages
 
-As part of the Services you may receive communications through the Services in the event of an emergency, through SMS (text messages), emails, push notifications, or phone call. An emergency meriting a message shall be determined solely by your teacher, organizer, school or district or any official designated by a school or district, or a government agency.  BY SIGNING UP FOR THE SERVICES, YOU AGREE TO RECEIVE EMERGENCY COMMUNICATIONS FROM REMIND WHENEVER IT IS DETERMINED THAT CIRCUMSTANCES MERIT THOSE COMMUNICATIONS. IF YOU ARE A TEACHER, ORGANIZER, PREMIUM ORGANIZER, VERIFIED ADMINISTRATOR, SCHOOL OR DISTRICT OFFICIAL YOU REPRESENT AND WARRANT THAT EACH PERSON YOU INVITE AND/OR ADD HAS CONSENTED TO RECEIVE COMMUNICATIONS FROM YOU AND REMIND. If you connect to or use any third party services in conjunction with Remind, you acknowledge and consent to receive notifications and messages from those third party services. Because Remind does not control whether to send or not send an emergency notification, Remind is never responsible for your receipt of, or failure to receive an emergency message. Often when an emergency is suspected the individuals empowered to determine whether to send an emergency message through Remind may have incorrect or only partial information. Remind is not responsible for messages sent erroneously or for the content of any message sent as an emergency message, even when the content of that message contains information that is incomplete, confusing, or erroneous.  YOU ALONE CAN DETERMINE WHAT, IF ANY, ACTIONS TO TAKE IN THE EVENT OF AN EMERGENCY OR IN RESPONSE TO AN EMERGENCY MESSAGE YOU RECEIVE THROUGH REMIND. YOU AGREE TO INDEMNIFY AND HOLD REMIND HARMLESS FOR AND AGAINST ANY AND ALL CLAIMS, LIABILITIES, DAMAGES (ACTUAL AND CONSEQUENTIAL), LOSSES AND EXPENSES (INCLUDING ATTORNEYS' FEES) ARISING FROM OR IN ANY WAY RELATED TO YOUR RECEIPT OF EMERGENCY MESSAGES OR YOUR FAILURE TO RECEIVE AN EMERGENCY MESSAGE.While we strongly encourage you not to, you may opt out of receiving emergency messages as SMS text messages or emails, but not phone calls. To permanently cease receiving SMS text messages, please text @STOPALL:
+As part of the Services you may receive communications through the Services in the event of an emergency, through SMS (text messages), emails, push notifications, or phone call. An emergency meriting a message shall be determined solely by your teacher, organizer, school or district or any official designated by a school or district, or a government agency. BY SIGNING UP FOR THE SERVICES, YOU AGREE TO RECEIVE EMERGENCY COMMUNICATIONS FROM REMIND WHENEVER IT IS DETERMINED THAT CIRCUMSTANCES MERIT THOSE COMMUNICATIONS. IF YOU ARE A TEACHER, ORGANIZER, VERIFIED ADMINISTRATOR, SCHOOL OR DISTRICT OFFICIAL YOU REPRESENT AND WARRANT THAT EACH PERSON YOU INVITE AND/OR ADD HAS CONSENTED TO RECEIVE COMMUNICATIONS FROM YOU AND REMIND. If you connect to or use any third party services in conjunction with Remind, you acknowledge and consent to receive notifications and messages from those third party services. Because Remind does not control whether to send or not send an emergency notification, Remind is never responsible for your receipt of, or failure to receive an emergency message. Often when an emergency is suspected the individuals empowered to determine whether to send an emergency message through Remind may have incorrect or only partial information. Remind is not responsible for messages sent erroneously or for the content of any message sent as an emergency message, even when the content of that message contains information that is incomplete, confusing, or erroneous. YOU ALONE CAN DETERMINE WHAT, IF ANY, ACTIONS TO TAKE IN THE EVENT OF AN EMERGENCY OR IN RESPONSE TO AN EMERGENCY MESSAGE YOU RECEIVE THROUGH REMIND. YOU AGREE TO INDEMNIFY AND HOLD REMIND HARMLESS FOR AND AGAINST ANY AND ALL CLAIMS, LIABILITIES, DAMAGES (ACTUAL AND CONSEQUENTIAL), LOSSES AND EXPENSES (INCLUDING ATTORNEYS' FEES) ARISING FROM OR IN ANY WAY RELATED TO YOUR RECEIPT OF EMERGENCY MESSAGES OR YOUR FAILURE TO RECEIVE AN EMERGENCY MESSAGE.While we strongly encourage you not to, you may opt out of receiving emergency messages as SMS text messages or emails, but not phone calls. To permanently cease receiving SMS text messages, please text @STOPALL:
 
-*   in reply to any SMS message from that class or group,
-*   to a Remind long-code (a phone number issued by Remind), or
-*   in the US, to the Remind short code 81010.
+- in reply to any SMS message from that class or group,
+- to a Remind long-code (a phone number issued by Remind), or
+- in the US, to the Remind short code 81010.
 
 For more information see this [link](https://www.remind.com/support/text).
 
-If the authorized administrator at your school or district is sharing information from the School Information System with Remind, you will receive emergency messages as phone calls to the phone number you have on record with your school or district. You will receive these phone calls even if you opt out of receiving SMS text messages on Remind. You can opt out of receiving these phone calls only by having the authorized administrator at your school or district remove your contact information from their School Information System. 
+If the authorized administrator at your school or district is sharing information from the School Information System with Remind, you will receive emergency messages as phone calls to the phone number you have on record with your school or district. You will receive these phone calls even if you opt out of receiving SMS text messages on Remind. You can opt out of receiving these phone calls only by having the authorized administrator at your school or district remove your contact information from their School Information System.
 
 #### What this is saying
 
-We are letting you know that in the event of an emergency, determined by those individuals in your school, school district, community or a government official and not Remind, you may receive emergency messages from us in addition to other Remind users. While Remind provides schools and districts with the ability to send emergency messages through Remind,  Remind is neither responsible for your receipt of or failure to receive a message, nor your actions, failure to act or the actions or inactions of others in response to any emergency message. We do not want you to opt out of these messages as your schools or district may wish for you to receive an emergency message. However, we provided instructions on how to easily unsubscribe and stop receiving SMS text messages and emails. To stop receiving phone calls, you need to talk to your school or district.
+We are letting you know that in the event of an emergency, determined by those individuals in your school, school district, community or a government official and not Remind, you may receive emergency messages from us in addition to other Remind users. While Remind provides schools and districts with the ability to send emergency messages through Remind, Remind is neither responsible for your receipt of or failure to receive a message, nor your actions, failure to act or the actions or inactions of others in response to any emergency message. We do not want you to opt out of these messages as your schools or district may wish for you to receive an emergency message. However, we provided instructions on how to easily unsubscribe and stop receiving SMS text messages and emails. To stop receiving phone calls, you need to talk to your school or district.
 
 ---
 
@@ -188,8 +185,8 @@ You agree that you may only use the Services in accordance with [Remind's Commun
 
 All materials displayed or performed or available on the Services (including, but not limited to text, graphics, data, articles, photographs, images, illustrations, User Submissions (defined below), and so forth (all of the foregoing, the "Content")) are protected by copyright and other intellectual property laws. You may only use the Services for your own personal, non-commercial (meaning, you may not leverage the Services as a separate business) use and only in accordance with the terms of this Agreement and all laws that apply to you. Remind is not responsible for your use of the Services in any way that breaks the law. You agree you will abide by all copyright notices, trademark rules, information, and restrictions contained in any Content accessed through the Services, and will not use, copy, modify, publish, distribute, upload, display, license, sell or otherwise exploit for any purposes whatsoever any Content, third party submissions or other proprietary rights not owned by you:
 
-*   without the express prior written consent of the respective owners, and
-*   in any way that violates anyone else's (including Remind's) rights.
+- without the express prior written consent of the respective owners, and
+- in any way that violates anyone else's (including Remind's) rights.
 
 You will not link to the Services without Remind's prior written consent, except in accordance with the terms of this Agreement.
 
@@ -211,16 +208,16 @@ Also, be sure to read our [Community Guidelines](https://www.remind.com/communit
 
 You warrant, represent and agree that you will not contribute any Content or otherwise use (or encourage anyone else to use) the Services in a manner that:
 
-*   infringes or violates the intellectual property rights or proprietary rights, rights of publicity or privacy, or other rights of any other third party;
-*   violates any law, statute, ordinance or regulation;
-*   is harmful, fraudulent, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, or otherwise objectionable as reasonably determined by Remind;
-*   jeopardizes the security of your account in any way, such as allowing someone else access to your account or password;
-*   attempts, in any manner, to obtain the password, account, or other security information from any other user;
-*   violates the security of any computer network, or cracks any passwords or security encryption codes;
-*   runs Maillist, Listserv, any form of auto-responder or "spam" on the Services, or any processes that run or are activated while you are not logged into the Services, or that otherwise interfere with the proper working of the Services (including by placing an unreasonable load on the Services' infrastructure);
-*   "crawls," "scrapes," or "spiders" any page, data, or portion of or relating to the Services or Content (through use of manual or automated means);
-*   copies or stores any significant portion of the Content;
-*   decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Services (or the products of Remind's third party service providers).
+- infringes or violates the intellectual property rights or proprietary rights, rights of publicity or privacy, or other rights of any other third party;
+- violates any law, statute, ordinance or regulation;
+- is harmful, fraudulent, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, or otherwise objectionable as reasonably determined by Remind;
+- jeopardizes the security of your account in any way, such as allowing someone else access to your account or password;
+- attempts, in any manner, to obtain the password, account, or other security information from any other user;
+- violates the security of any computer network, or cracks any passwords or security encryption codes;
+- runs Maillist, Listserv, any form of auto-responder or "spam" on the Services, or any processes that run or are activated while you are not logged into the Services, or that otherwise interfere with the proper working of the Services (including by placing an unreasonable load on the Services' infrastructure);
+- "crawls," "scrapes," or "spiders" any page, data, or portion of or relating to the Services or Content (through use of manual or automated means);
+- copies or stores any significant portion of the Content;
+- decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Services (or the products of Remind's third party service providers).
 
 Remind reserves the right to terminate access of any third party application or service to our published or unpublished APIs.
 
@@ -236,7 +233,7 @@ We are serious about safety. If you don't follow our Guidelines or these Terms o
 
 ## Copyright dispute policy
 
-Under American copyright law, the  Digital Millennium Copyright Act (the "DMCA"), online service providers such as Remind have the right, but not the obligation, to remove material that allegedly violates someone's copyright. We respect others' intellectual property rights, and we reserve the right to delete or disable Content alleged to be infringing, and to terminate the accounts of repeat alleged infringers. To learn more about the DMCA, [click here](http://www.copyright.gov/legislation/dmca.pdf).
+Under American copyright law, the Digital Millennium Copyright Act (the "DMCA"), online service providers such as Remind have the right, but not the obligation, to remove material that allegedly violates someone's copyright. We respect others' intellectual property rights, and we reserve the right to delete or disable Content alleged to be infringing, and to terminate the accounts of repeat alleged infringers. To learn more about the DMCA, [click here](http://www.copyright.gov/legislation/dmca.pdf).
 
 Under Canadian copyright laws, Remind is required to forward any notice from a copyright owner to a Remind user located in Canada if the copyright has notified Remind in accordance with the requirements under the Canadian Copyright Act.
 
@@ -288,10 +285,10 @@ Please keep in mind that you are solely responsible for your use of Remind. If y
 
 TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, IN NO EVENT WILL REMIND OR ITS SUPPLIERS OR ITS SERVICE PROVIDERS, OR THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE WITH RESPECT TO THE SERVICES OR THE SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, TORT, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY:
 
-*   FOR ANY AMOUNT IN THE AGGREGATE IN EXCESS OF THE GREATER OF $100 OR THE FEES PAID BY YOU TO REMIND HEREUNDER DURING THE 12-MONTH PERIOD PRECEDING THE APPLICABLE CLAIM;
-*   FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER;
-*   FOR DATA LOSS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; OR
-*   FOR ANY MATTER BEYOND REMIND'S REASONABLE CONTROL.
+- FOR ANY AMOUNT IN THE AGGREGATE IN EXCESS OF THE GREATER OF \$100 OR THE FEES PAID BY YOU TO REMIND HEREUNDER DURING THE 12-MONTH PERIOD PRECEDING THE APPLICABLE CLAIM;
+- FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER;
+- FOR DATA LOSS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; OR
+- FOR ANY MATTER BEYOND REMIND'S REASONABLE CONTROL.
 
 SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS AND EXCLUSIONS MAY NOT APPLY TO YOU.
 
@@ -325,7 +322,7 @@ We want you to have a great experience on Remind. But, if you are dissatisfied w
 
 The failure of either party to exercise, in any respect, any right provided for herein will not be deemed a waiver of any further rights hereunder. Remind will not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond Remind's reasonable control, including, without limitation, mechanical, electronic or communications failure or degradation. If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable. This Agreement is not assignable, transferable or sublicensable by you except with Remind's prior written consent. Remind may transfer, assign or delegate this Agreement and its rights and obligations without consent. Both parties agree that this Agreement is the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement, and that all modifications must be in a writing signed by both parties, except as otherwise provided herein. This Agreement and any subsequent versions of this Agreement posted to the Services will be deemed a writing signed by both parties. No agency, partnership, joint venture, or employment is created as a result of this Agreement and you do not have any authority of any kind to bind Remind in any way whatsoever.
 
-It is the express wish of the parties that this Agreement and all related documents be drawn up in English.  C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglaise 
+It is the express wish of the parties that this Agreement and all related documents be drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglaise
 
 ---
 

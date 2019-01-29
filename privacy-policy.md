@@ -98,15 +98,15 @@ The information you provide to us by creating an account (or when joining a clas
 
 We receive and store any information you knowingly enter on the Services, whether via computer, mobile phone, other wireless device, or that you provide to us in any other way. With your express consent, you may be able to upload, import or sync contact information from your mobile device (for example, from your address book) to Remind. This information may include Personal Information such as your name, phone numbers, email addresses, photographs, and, in certain circumstances, your school and/or district, class, group, club, team or Organization affiliation (which may be used to validate your account or to provide you with notifications via the Services from a teacher, school and/or district, class, group, club, team or affiliated Organization ("Notifications"), or any other information necessary for us to provide our Services. For under-13 users, we collect a name (first name and last initial), date of birth, district, school, class, email address and/or telephone number, and that under-13 user's parent's email address to provide notice to the parent regarding the Services. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. We use the Personal Information we receive about you to provide you with the Services and also for purposes such as:
 
-*   attempting to authenticate your identity,
-*   responding to your requests for certain information,
-*   customizing the features that we make available to you,
-*   suggesting relevant services or products for you to use,
-*   improving the Services and internal operations (including troubleshooting, testing, and analyzing usage),
-*   communicating with you about new features,
-*   and, most importantly, protecting our users, sending emergency messages we are directed to send to you, and working towards making sure our Services are safer and more secure.
+- attempting to authenticate your identity,
+- responding to your requests for certain information,
+- customizing the features that we make available to you,
+- suggesting relevant services or products for you to use,
+- improving the Services and internal operations (including troubleshooting, testing, and analyzing usage),
+- communicating with you about new features,
+- and, most importantly, protecting our users, sending emergency messages we are directed to send to you, and working towards making sure our Services are safer and more secure.
 
-You may modify or remove your Personal Information at any time by logging into your account and accessing features to edit your classes, groups, and/or account information. If an Organizer, Premium Organizer or a Verified Administrator uploads or adds information about you to your account, you may have to contact and work directly with that Organizer, Premium Organizer or Verified Administrator in order to modify or remove that information.
+You may modify or remove your Personal Information at any time by logging into your account and accessing features to edit your classes, groups, and/or account information. If an Organizer or a Verified Administrator uploads or adds information about you to your account, you may have to contact and work directly with that Organizer or Verified Administrator in order to modify or remove that information.
 
 #### What this is saying
 
@@ -132,17 +132,17 @@ When users use our mobile application, we automatically collect the Internet Pro
 
 We collect users' IP addresses whenever they use our mobile application, which provides us with a coarse approximation of the user's location at the city level in order for Remind to, for example:
 
-*   provide Organizers with a geo-specific long-code (i.e., generic phone number with a local area code),
-*   support features such as school selection, and
-*   enable other internal measurement and Services features.
+- provide Organizers with a geo-specific long-code (i.e., generic phone number with a local area code),
+- support features such as school selection, and
+- enable other internal measurement and Services features.
 
 We also may, with your express consent, request more specific location information in order to provide you with more relevant information (such as nearby classes or relevant groups that you may subscribe to). We will not store or track your device location on an ongoing basis or without your permission. We may also collect location-based information from users as part of providing the Services and in order to comply with applicable laws and regulations for the user's jurisdiction.
 
 While Remind collects and temporarily stores phone numbers of first-time users under 13 years of age, we will delete the information collected if parental consent is not obtained. If the underage user has signed up for the Services through SMS and then downloaded Remind's mobile application, Remind will have and may use the underage user's phone number:
 
-*   to merge the under-13 user's accounts,
-*   to continue SMS delivery services, and/or
-*   as a back-up method of notification.
+- to merge the under-13 user's accounts,
+- to continue SMS delivery services, and/or
+- as a back-up method of notification.
 
 #### What this is saying
 
@@ -156,13 +156,13 @@ If you provide us your email address or phone number, Remind may send you admini
 
 To permanently cease receiving SMS text messages, please text @STOPALL:
 
-*   in reply to any SMS message from that class or group,
-*   to a Remind long-code (a phone number issued by Remind), or
-*   in the US, to the Remind short code 81010.
+- in reply to any SMS message from that class or group,
+- to a Remind long-code (a phone number issued by Remind), or
+- in the US, to the Remind short code 81010.
 
 For more information see this [link](https://www.remind.com/support/text).
 
-If you are located in Canada, you may opt out of receiving marketing messages (including text messages and emails); however, you may still receive text message and email communications that are necessary for the Services or otherwise exempt from anti-spam laws. 
+If you are located in Canada, you may opt out of receiving marketing messages (including text messages and emails); however, you may still receive text message and email communications that are necessary for the Services or otherwise exempt from anti-spam laws.
 
 #### What this is saying
 
@@ -192,9 +192,9 @@ Remind uses these technologies to deliver, measure, and improve our Services in 
 
 ### Authentication and security
 
-*   To log you into Remind.
-*   To protect your security.
-*   To help us detect and fight spam, abuse, and other activities that violate Remind's policies.
+- To log you into Remind.
+- To protect your security.
+- To help us detect and fight spam, abuse, and other activities that violate Remind's policies.
 
 For example, these technologies help authenticate your access to Remind and prevent unauthorized parties from accessing your account.
 
@@ -234,7 +234,7 @@ Users may have the choice of associating their account with a school or other Or
 
 By associating your account with an Organization, you acknowledge and agree that a Verified Administrator) may be able to view your User Submissions (including your Personal Information and messaging content). In addition, Verified Administrators may be able to make administrative changes to your account, such as, removing you from classes and/or groups, sending messages on your behalf, and more. In addition, depending upon the preferences of the Verified Administrator and the Organization, Remind may be used as a school directory and information such as your name, classes or groups may be made available to people in your Organization.
 
-If you are an Organizer or Premium Organizer affiliated with an Organization, you acknowledge that Remind may enable other users who are associated with the same Organization to contact you -- for example, teachers, students, or parents who are associated with your Organization may communicate with you. Participants may also contact each other (in addition to viewing User Submissions). Remind does not display in a user's account profile personal contact information of the user to any other users without prior consent.
+If you are an Organizer affiliated with an Organization, you acknowledge that Remind may enable other users who are associated with the same Organization to contact you -- for example, teachers, students, or parents who are associated with your Organization may communicate with you. Participants may also contact each other (in addition to viewing User Submissions). Remind does not display in a user's account profile personal contact information of the user to any other users without prior consent.
 
 #### What this is saying
 
@@ -278,9 +278,9 @@ If Remind is bought by another company, we may need to provide your information 
 
 We may release Personal Information when we believe in good faith that release is necessary to:
 
-*   comply with the law or national security request (for example, responding to a subpoena or other legal process);
-*   enforce or apply our [Terms of Service](https://www.remind.com/terms-of-service) and other agreements; or
-*   protect the rights, property, or safety of Remind, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection or responding to government requests.
+- comply with the law or national security request (for example, responding to a subpoena or other legal process);
+- enforce or apply our [Terms of Service](https://www.remind.com/terms-of-service) and other agreements; or
+- protect the rights, property, or safety of Remind, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection or responding to government requests.
 
 We also may be required to disclose an individual's Personal Information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
@@ -306,15 +306,15 @@ The security of Personal Information in the school environment is a top priority
 
 Remind has protections in place to enhance our users' security, and routinely update these protections. We have administrative, technical, and physical safeguards designed to protect against unauthorized use, disclosure of or access to Personal Information. In particular:
 
-*   Our engineering team is dedicated to keeping your Personal Information secure.
-*   We work with industry-leading auditors to review and guide our security policies and procedures.
-*   Remind stores its data within an AWS region that is [FedRAMP compliant](http://aws.amazon.com/compliance/fedramp/).
-*   Remind's main database and all backups are encrypted at rest.
-*   The AWS cloud infrastructure has been designed and managed in compliance with regulations, standards, and best-practices, including HIPPA, SOC 1/SSAE 16/ISAE 3402 (formerly SAS70), SOC 2, SOC 3, PCI DSS Level 1, ISO 27001, FedRAMP, DIACAP and FISMA, ITAR, FIPS 140-2, CSA, and MPAA.
-*   Low-level auditing software is run on all production systems to record potentially malicious actions that may take place.
-*   Increased focus for all software companies on advancing cybersecurity has led Remind to undertake industry standard software security measures. For example, Remind runs periodic penetration tests and a bug bounty program with trusted, vetted and verified security researchers then logs and resolves discovered issues.
-*   All Remind clients use TLS/SSL when communicating with our servers.
-*   We utilize a bug bounty program under the guidance of HackerOne and its vetted, software security experts to help us identify and quickly resolve any previously unknown software bugs.
+- Our engineering team is dedicated to keeping your Personal Information secure.
+- We work with industry-leading auditors to review and guide our security policies and procedures.
+- Remind stores its data within an AWS region that is [FedRAMP compliant](http://aws.amazon.com/compliance/fedramp/).
+- Remind's main database and all backups are encrypted at rest.
+- The AWS cloud infrastructure has been designed and managed in compliance with regulations, standards, and best-practices, including HIPPA, SOC 1/SSAE 16/ISAE 3402 (formerly SAS70), SOC 2, SOC 3, PCI DSS Level 1, ISO 27001, FedRAMP, DIACAP and FISMA, ITAR, FIPS 140-2, CSA, and MPAA.
+- Low-level auditing software is run on all production systems to record potentially malicious actions that may take place.
+- Increased focus for all software companies on advancing cybersecurity has led Remind to undertake industry standard software security measures. For example, Remind runs periodic penetration tests and a bug bounty program with trusted, vetted and verified security researchers then logs and resolves discovered issues.
+- All Remind clients use TLS/SSL when communicating with our servers.
+- We utilize a bug bounty program under the guidance of HackerOne and its vetted, software security experts to help us identify and quickly resolve any previously unknown software bugs.
 
 Remind endeavors to protect user information and to ensure that user account information is kept private; however, we cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. If Remind knows or becomes aware of a security breach of its users' personally identifiable information, Remind will notify affected users as required by applicable laws and may post a notice on the Services as required by applicable law(s). For additional information about the security measures we use in connection with the Services, please contact us at [security@remindhq.com].
 
@@ -336,8 +336,8 @@ The third party products you choose to use on Remind may need to collect and use
 
 Our Services may also include access to, among others:
 
-*   Workplace productivity apps that allow for the sharing of content, such as but not limited to, Google Docs, Microsoft Office, Dropbox, or Quip; or
-*   Social media features, such as the Facebook "Like" button, and widgets, such as the "Share this" button or interactive mini-programs that run on our site.
+- Workplace productivity apps that allow for the sharing of content, such as but not limited to, Google Docs, Microsoft Office, Dropbox, or Quip; or
+- Social media features, such as the Facebook "Like" button, and widgets, such as the "Share this" button or interactive mini-programs that run on our site.
 
 These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by another company or hosted directly on our Services. When connecting your Remind account with any third party site you may benefit from the ability to communicate across sites. Although a class owner may share their roster with a third party service to send content to the students and parents in a class, the class owner may not share phone numbers, email addresses or similar information without the express consent of the user themselves or the Verified Administrator. Furthermore under 13 year old students will never have their external contact points shared. Under 13 users will only be able to receive, but not send, content and communications originating from either one of these third party services or a user of those services. Your interactions with these features are governed by the privacy policy of the company providing it.
 
@@ -353,11 +353,11 @@ Remind acknowledges that individuals from the EU have the right to access the Pe
 
 As a Remind account holder, you have access to view and update the following information at your discretion:
 
-*   information in your user account (such as your email address),
-*   Participant names,
-*   user preferences,
-*   and
-*   content in your account (note that once provided, you may not be able to edit or remove certain types of content, such as messages)
+- information in your user account (such as your email address),
+- Participant names,
+- user preferences,
+- and
+- content in your account (note that once provided, you may not be able to edit or remove certain types of content, such as messages)
 
 This list may change as the Services change.
 
@@ -423,8 +423,7 @@ San Francisco, CA 94103
 
 **Contact**
 
-[privacy@remindhq.com]
-(415) 484-3911
+[privacy@remindhq.com](415) 484-3911
 
 _If you are a school or district interested in upgrading to a Remind Plan, please visit[remind.com/plans](https://www.remind.com/plans)._
 
@@ -433,4 +432,5 @@ _If you are a school or district interested in upgrading to a Remind Plan, pleas
 We encourage you to contact us using the information provided here if you have any questions or concerns about how we use your information.
 
 ---
- Updated January 25, 2019
+
+Updated January 25, 2019
