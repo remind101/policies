@@ -81,7 +81,7 @@ Remind's basic service is free right now, and we have no plans to charge users f
 
 ## Additional terms
 
-This Agreement applies to all users of our Services, but there are special terms for you depending on what type of user you are and whether you use the service for free, as do the vast majority of our users, or pay for use of Remind. 
+This Agreement applies to all users of our Services, but there are special terms for you depending on what type of user you are and whether you use the service for free, as do the vast majority of our users, or pay for use of Remind.
 
 If you are, for example, a student, teammate or parent who is invited to be or added as a member of a class or group by an Organizer, you are a **Participant**. If you are a staff member of a school or school district that has purchased a paid School or District Plan, and have been given administrative rights, then you are a Verified Administrator. If you are a teacher, coach or parent who creates a "class" or "group" of members, then you are an **Organizer**. If you are agreeing to this Agreement on behalf of an organization, such as a school or school district, club, or team, you are an **Organization**. You may not sign up for or use the Services as someone you are not; Remind may disable or terminate your account if you do so. Please read on below to find out what additional terms apply to you.
 
@@ -96,17 +96,17 @@ If you are, for example, a student, teammate or parent who is invited to be or a
     *   You can invite Participants and other Organizers to your class or group by distributing "class codes" or "group codes", and communicate with those users, (in some cases, there may be more than one Organizer per class/group).
     *   You may only share class or group codes with Participants and Organizers whom you wish to subscribe to your class/group. If you plan to broadly or publicly publish these codes, you must manage the accuracy of your subscriber lists carefully.
     *   It's your responsibility to maintain and monitor the accuracy of the list of Participants for each of your classes or groups.
-    *   If you are connected to an Organization on a Remind Plan you may receive additional privileges from a Verified Administrator of your Organization. These privileges may include access to information and User Submissions (defined below) (including personally identifiable information but not personal contact information) of Participants and other Organizers in your class, group or affiliated Organization. 
+    *   If you are connected to an Organization on a Remind Plan you may receive additional privileges from a Verified Administrator of your Organization. These privileges may include access to information and User Submissions (defined below) (including personally identifiable information but not personal contact information) of Participants and other Organizers in your class, group or affiliated Organization.
     *   If you are connected to an Organization on a Remind Plan, Verified Administrators of that Organization may be able to join or message members of your class or group, add or update information in your Remind account profile, add, move or remove you from classes or groups affiliated with the Organization, and/or take other actions relating to your access and use of the Services through the Organization.
 *   If you are an **Organization** (such as a school, school district or club):
     *   You are responsible for maintaining the accuracy of the information relating to your Organization. If at any time you learn that a user of the Services claims to be affiliated with your organization but is not, in fact, affiliated with your Organization, or of any other inaccuracy relating to your Organization's information, you will remove that user from your Organization and, if appropiate, notify Remind immediately by visiting [rmd.me/help](https://help.remind.com/hc/en-us/requests/new).
 *   If Remind verifies you as a Verified Administrator of your Organization, you may have the ability to perform the following tasks:
     *   invite and add Organizers and Participants to the Services,
         *   view and manage users and information affiliated with your Organization,
-    *   add, move, or remove Organizers and Participants from classes and/or groups affiliated with your Organization, 
-    *   connect and upload or sync information relating to Organizers, Participants, classes and/or groups using a data upload or syncing mechanism (such as, using CSV upload or through integration with your School Information Systems (SIS)), 
+    *   add, move, or remove Organizers and Participants from classes and/or groups affiliated with your Organization,
+    *   connect and upload or sync information relating to Organizers, Participants, classes and/or groups using a data upload or syncing mechanism (such as, using CSV upload or through integration with your School Information Systems (SIS)),
     *   join classes and groups created by Organizers affiliated with your Organization,
-    *   communicate directly with other users affiliated with your Organization, 
+    *   communicate directly with other users affiliated with your Organization,
     *   access and manage information and User Submissions, and
     *   view the contact information, which will include personally identifiable information, of all Remind users connected with your school or district, as appropriate, and see which of those users received communications from your school or district.
     *   IF YOU CHOOSE TO DO ANY OF THE ABOVE, YOU REPRESENT AND WARRANT THAT YOU HAVE ALL RIGHTS AND HAVE OBTAINED ALL CONSENTS AND AUTHORIZATIONS NECESSARY TO PERFORM SUCH TASKS AND THAT YOU WILL ONLY USE PERSONAL INFORMATION IN ACCORDANCE WITH APPLICABLE PRIVACY LAWS.
@@ -116,7 +116,7 @@ If you are, for example, a student, teammate or parent who is invited to be or a
         *   RECEIVE SUCH INVITATION AND BE ADDED TO THE SERVICES;
         *   RECEIVE MESSAGES FROM
             *   REMIND,
-            *   OTHER PARTICIPANTS OF THE CLASS OR GROUP, 
+            *   OTHER PARTICIPANTS OF THE CLASS OR GROUP,
             *   OTHERS WHO HAVE ACCESS TO YOUR CLASS OR GROUP (SUCH AS ORGANIZERS AND VERIFIED ADMINISTRATORS); AND
         *   PROVIDE THAT PERSON'S PERSONAL INFORMATION TO REMIND.
 
@@ -153,7 +153,7 @@ To permanently cease receiving SMS text messages, please text @STOPALL:
 
 For more information see this [link](https://www.remind.com/support/text).
 
-If you are located in Canada, you may opt out of receiving marketing messages (including text messages and emails); however, you may still receive text message and email communications that are necessary for the Services or otherwise exempt from anti-spam laws. 
+If you are located in Canada, you may opt out of receiving marketing messages (including text messages and emails); however, you may still receive text message and email communications that are necessary for the Services or otherwise exempt from anti-spam laws.
 
 #### What this is saying
 
@@ -171,7 +171,7 @@ As part of the Services you may receive communications through the Services in t
 
 For more information see this [link](https://www.remind.com/support/text).
 
-If the authorized administrator at your school or district is sharing information from the School Information System with Remind, you will receive emergency messages as phone calls to the phone number you have on record with your school or district. You will receive these phone calls even if you opt out of receiving SMS text messages on Remind. You can opt out of receiving these phone calls only by having the authorized administrator at your school or district remove your contact information from their School Information System. 
+If the authorized administrator at your school or district is sharing information from the School Information System with Remind, you will receive emergency messages as phone calls to the phone number you have on record with your school or district. You will receive these phone calls even if you opt out of receiving SMS text messages on Remind. You can opt out of receiving these phone calls only by having the authorized administrator at your school or district remove your contact information from their School Information System.
 
 #### What this is saying
 
@@ -227,7 +227,7 @@ You will be responsible for obtaining and maintaining any equipment or ancillary
 
 #### What this is saying
 
-We are serious about safety. If you don't follow our Guidelines or these Terms of Use, we may need to remove any inappropriate content, deactivate your account, and, in extreme circumstances, report your content to law enforcement. For example, we will report all images including nudity of minors or suspected minors unless they are clearly related to academic study of subjects such as art, biology or medicine. If you see someone violating our Guidelines or Terms of Use, please contact us immediately at [report@remindhq.com]. We need your help to keep the Remind community safe!
+We are serious about safety. If you don't follow our Guidelines or these Terms of Use, we may need to remove any inappropriate content, deactivate your account, and, in extreme circumstances, report your content to law enforcement. For example, we will report all images including nudity of minors or suspected minors unless they are clearly related to academic study of subjects such as art, biology or medicine. If you see someone violating our Guidelines or Terms of Use, please contact us immediately at report@remindhq.com. We need your help to keep the Remind community safe!
 
 ---
 
@@ -322,7 +322,7 @@ We want you to have a great experience on Remind. But, if you are dissatisfied w
 
 The failure of either party to exercise, in any respect, any right provided for herein will not be deemed a waiver of any further rights hereunder. Remind will not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond Remind's reasonable control, including, without limitation, mechanical, electronic or communications failure or degradation. If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable. This Agreement is not assignable, transferable or sublicensable by you except with Remind's prior written consent. Remind may transfer, assign or delegate this Agreement and its rights and obligations without consent. Both parties agree that this Agreement is the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement, and that all modifications must be in a writing signed by both parties, except as otherwise provided herein. This Agreement and any subsequent versions of this Agreement posted to the Services will be deemed a writing signed by both parties. No agency, partnership, joint venture, or employment is created as a result of this Agreement and you do not have any authority of any kind to bind Remind in any way whatsoever.
 
-It is the express wish of the parties that this Agreement and all related documents be drawn up in English.  C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglaise 
+It is the express wish of the parties that this Agreement and all related documents be drawn up in English.  C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglaise.
 
 ---
 
